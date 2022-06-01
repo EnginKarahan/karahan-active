@@ -105,13 +105,7 @@
     <loc>/posts/20220601233402/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/dn-episode05-ale-jahre-wieder/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/g%C3%BCvercin/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/jahresausklang/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/karahan/</loc>
@@ -132,19 +126,6 @@
   </url><url>
     <loc>/tags/kayman/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/muslime/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/tags/muslime/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/tags/muslime/"
-                />
   </url><url>
     <loc>/tags/pers%C3%B6nlich/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
@@ -190,12 +171,6 @@
                 hreflang="de"
                 href="/tags/"
                 />
-  </url><url>
-    <loc>/tags/weihnachten/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/weihnachtsmarkt/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/wir-%C3%BCber-uns/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
@@ -1434,6 +1409,31 @@
                 hreflang="de"
                 href="/tags/th%C3%BCringen/"
                 />
+  </url><url>
+    <loc>/posts/dn-episode05-ale-jahre-wieder/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/jahresausklang/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/muslime/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/tags/muslime/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/muslime/"
+                />
+  </url><url>
+    <loc>/tags/weihnachten/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/weihnachtsmarkt/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/ausland/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
