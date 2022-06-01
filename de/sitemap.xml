@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -58,7 +58,7 @@
                 />
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -71,7 +71,7 @@
                 />
   </url><url>
     <loc>/authors/engin-karahan/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -87,7 +87,7 @@
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -100,7 +100,7 @@
                 />
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -125,7 +125,7 @@
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -238,7 +238,7 @@
                 />
   </url><url>
     <loc>/series/</loc>
-    <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -869,7 +869,7 @@
                 />
   </url><url>
     <loc>/tags/islam/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -1370,6 +1370,53 @@
                 href="/tags/th%C3%BCringen/"
                 />
   </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/categories/"
+                />
+  </url><url>
+    <loc>/series/dauernoergler/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/deutschland/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/tags/deutschland/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/deutschland/"
+                />
+  </url><url>
+    <loc>/posts/dn-episode-01-muslimische-organisationen/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/innenansicht/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/muslimisch/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/organisation/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/podcast/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/selbstwahrnehmung/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/erweiterung/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -1586,19 +1633,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="/tags/deutsch-t%C3%BCrken/"
-                />
-  </url><url>
-    <loc>/tags/deutschland/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/tags/deutschland/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/tags/deutschland/"
                 />
   </url><url>
     <loc>/tags/diaspora/</loc>
@@ -3771,18 +3805,6 @@
                 />
   </url><url>
     <loc>/kontakt/absenden/</loc>
-  </url><url>
-    <loc>/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/categories/"
-                />
   </url><url>
     <loc>/authors/example-author/</loc>
     <xhtml:link

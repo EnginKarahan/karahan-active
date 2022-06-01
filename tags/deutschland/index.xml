@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deutschland on Karahan.net</title>
+    <title>deutschland on Karahan.net</title>
     <link>/tags/deutschland/</link>
-    <description>Recent content in Deutschland on Karahan.net</description>
+    <description>Recent content in deutschland on Karahan.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
 </copyright>
-    <lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/deutschland/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/deutschland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Episode 1 - Muslimische Organisationen in Deutschland</title>
+      <link>/posts/dn-episode-01-muslimische-organisationen/</link>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/dn-episode-01-muslimische-organisationen/</guid>
+      <description>Zwischen Selbstwahrnehmung und Wirklichkeit Innenansichten – darum geht es den Dauernörglern. In dieser Auftaktfolge ermöglichen die Dauernörgler einen Einblick in die ambivalente Selbstwahrnehmung innerhalb der muslimischen Organisationen und ihre Wirkung im gesellschaftlichen Diskurs. Die Dauernörgler ermöglichen neue Ansichten und neue Perspektiven auf den organisierten Islam in Deutschland.
+  Über den Dauernörgler-Podcast Im Dauernörgler-Podcast finden Sie Gespräche über das Zeitgeschehen aus muslimischer Perspektive.</description>
+    </item>
+    
     <item>
       <title>Eingesperrt in der türkischen Diaspora</title>
       <link>/posts/gurbet-tuerkische-diaspora/</link>
