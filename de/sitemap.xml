@@ -70,25 +70,6 @@
                 href="/authors/"
                 />
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/categories/"
-                />
-  </url><url>
-    <loc>/series/dauernoergler/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/dauern%C3%B6rgler/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/engin-karahan/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -102,14 +83,8 @@
                 href="/authors/engin-karahan/"
                 />
   </url><url>
-    <loc>/posts/20220601233402/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/g%C3%BCvercin/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/karahan/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
@@ -124,15 +99,6 @@
                 href="/"
                 />
   </url><url>
-    <loc>/tags/kayman/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/pers%C3%B6nlich/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/podcast/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -146,18 +112,17 @@
                 href="/posts/"
                 />
   </url><url>
-    <loc>/series/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/series/"
-                />
+    <loc>/tags/relaunch/</loc>
+    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/relaunch-karahan_net/</loc>
+    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sitemanager/</loc>
+    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/ssg/</loc>
+    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
@@ -171,24 +136,6 @@
                 hreflang="de"
                 href="/tags/"
                 />
-  </url><url>
-    <loc>/tags/wir-%C3%BCber-uns/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/relaunch/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/relaunch-karahan_net/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/sitemanager/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/ssg/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/webseite/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
@@ -288,6 +235,19 @@
                 rel="alternate"
                 hreflang="de"
                 href="/tags/milli-g%C3%B6r%C3%BCs/"
+                />
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/series/"
                 />
   </url><url>
     <loc>/tags/spannung/</loc>
@@ -1410,6 +1370,22 @@
                 href="/tags/th%C3%BCringen/"
                 />
   </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/categories/"
+                />
+  </url><url>
+    <loc>/series/dauernoergler/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/posts/dn-episode05-ale-jahre-wieder/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -1429,10 +1405,34 @@
                 href="/tags/muslime/"
                 />
   </url><url>
+    <loc>/categories/podcast/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/weihnachten/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/weihnachtsmarkt/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/dauern%C3%B6rgler/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/dn-episode04-wir-uber-uns/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/g%C3%BCvercin/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/karahan/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/kayman/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pers%C3%B6nlich/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/wir-%C3%BCber-uns/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/ausland/</loc>
