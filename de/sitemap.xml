@@ -8,14 +8,14 @@
     <loc>/docs/muslim-institution/provisorium/</loc>
     <lastmod>2022-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docs/muslim-institution/</loc>
-    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/kc/dienstleistungen/projektberatung/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/docs/muslim-institution/status-quo/</loc>
     <lastmod>2015-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/docs/muslim-institution/</loc>
+    <lastmod>2022-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/kc/dienstleistungen/presse-oeffentlichkeit/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -58,7 +58,7 @@
                 />
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -70,8 +70,27 @@
                 href="/authors/"
                 />
   </url><url>
+    <loc>/tags/belgien/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/dilettantismus-muslimische-gemeinschaft-belgien/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/ditib/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/tags/ditib/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/ditib/"
+                />
+  </url><url>
     <loc>/authors/engin-karahan/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -83,11 +102,30 @@
                 href="/authors/engin-karahan/"
                 />
   </url><url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <loc>/tags/executif/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/igmg/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/tags/igmg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/igmg/"
+                />
+  </url><url>
+    <loc>/series/institutionalisierung/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/series/islam-in-belgien/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -100,7 +138,7 @@
                 />
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -111,6 +149,38 @@
                 hreflang="de"
                 href="/posts/"
                 />
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/series/"
+                />
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/"
+                />
+  </url><url>
+    <loc>/tags/vertretungsstruktur/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2022-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/relaunch/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
@@ -123,19 +193,6 @@
   </url><url>
     <loc>/tags/ssg/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/tags/"
-                />
   </url><url>
     <loc>/tags/webseite/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
@@ -165,19 +222,6 @@
     <loc>/posts/spannungen-in-der-igmg-in-frankreich/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/igmg/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/tags/igmg/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/tags/igmg/"
-                />
-  </url><url>
     <loc>/series/igmg/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -196,19 +240,6 @@
   </url><url>
     <loc>/tags/milli-g%C3%B6r%C3%BCs/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/series/"
-                />
   </url><url>
     <loc>/tags/spannung/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
@@ -310,19 +341,6 @@
   </url><url>
     <loc>/tags/darmanin/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/ditib/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/tags/ditib/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/tags/ditib/"
-                />
   </url><url>
     <loc>/tags/forif/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
@@ -1333,27 +1351,107 @@
   </url><url>
     <loc>/tags/barmherzigkeit/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/tags/barmherzigkeit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/barmherzigkeit/"
+                />
   </url><url>
     <loc>/tags/doppelstandard/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/tags/doppelstandard/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/doppelstandard/"
+                />
   </url><url>
     <loc>/tags/hilfe/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/tags/hilfe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/hilfe/"
+                />
   </url><url>
     <loc>/tags/menschlichkeit/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/tags/menschlichkeit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/menschlichkeit/"
+                />
   </url><url>
     <loc>/tags/selektive-hilfsbereitschaft/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/tags/selektive-hilfsbereitschaft/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/selektive-hilfsbereitschaft/"
+                />
   </url><url>
     <loc>/tags/selektive-wahrnehmung/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/tags/selektive-wahrnehmung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/selektive-wahrnehmung/"
+                />
   </url><url>
     <loc>/tags/spendenbereitschaft/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/tags/spendenbereitschaft/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/tags/spendenbereitschaft/"
+                />
   </url><url>
     <loc>/posts/traenen_ueberall_gleich/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/posts/traenen_ueberall_gleich/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/posts/traenen_ueberall_gleich/"
+                />
   </url><url>
     <loc>/tags/essen/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
