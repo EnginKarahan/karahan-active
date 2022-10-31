@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -58,7 +58,7 @@
                 />
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -71,13 +71,29 @@
                 />
   </url><url>
     <loc>/tags/belgien/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/dilettantismus-muslimische-gemeinschaft-belgien/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="/tr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/categories/"
+                />
+  </url><url>
+    <loc>/series/dauernoergler/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/dauern%C3%B6rgler/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/ditib/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -90,7 +106,7 @@
                 />
   </url><url>
     <loc>/authors/engin-karahan/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -102,11 +118,17 @@
                 href="/authors/engin-karahan/"
                 />
   </url><url>
-    <loc>/tags/executif/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <loc>/posts/episode_34-die_dauernoergler_noergeln/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/frankreich/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hamburg/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/igmg/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -118,14 +140,8 @@
                 href="/tags/igmg/"
                 />
   </url><url>
-    <loc>/series/institutionalisierung/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/series/islam-in-belgien/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -137,8 +153,11 @@
                 href="/"
                 />
   </url><url>
+    <loc>/categories/podcast/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/posts/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -151,7 +170,7 @@
                 />
   </url><url>
     <loc>/series/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -163,8 +182,11 @@
                 href="/series/"
                 />
   </url><url>
+    <loc>/tags/staatsvertrag/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/</loc>
-    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -175,6 +197,21 @@
                 hreflang="de"
                 href="/tags/"
                 />
+  </url><url>
+    <loc>/tags/verbandspersonal/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/dilettantismus-muslimische-gemeinschaft-belgien/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/executif/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/series/institutionalisierung/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/series/islam-in-belgien/</loc>
+    <lastmod>2022-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/vertretungsstruktur/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
@@ -215,9 +252,6 @@
   </url><url>
     <loc>/kc/dienstleistungen/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/frankreich/</loc>
-    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/spannungen-in-der-igmg-in-frankreich/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
@@ -658,22 +692,6 @@
     <loc>/tags/th%C3%BCringen/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="/tr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/categories/"
-                />
-  </url><url>
-    <loc>/series/dauernoergler/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/dn-episode05-ale-jahre-wieder/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -683,16 +701,10 @@
     <loc>/tags/muslime/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/podcast/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/weihnachten/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/weihnachtsmarkt/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/dauern%C3%B6rgler/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/dn-episode04-wir-uber-uns/</loc>
