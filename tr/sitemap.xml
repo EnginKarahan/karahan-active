@@ -3,6 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/tr/authors/engin-karahan/experience/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -16,9 +18,13 @@
   </url><url>
     <loc>/tr/tags/antisemitism/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/authors/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -32,6 +38,8 @@
   </url><url>
     <loc>/tr/authors/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -45,9 +53,13 @@
   </url><url>
     <loc>/tr/tags/cemaat/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/authors/engin-karahan/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -61,6 +73,8 @@
   </url><url>
     <loc>/tr/tags/erbakan/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -74,6 +88,8 @@
   </url><url>
     <loc>/tr/tags/igmg/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -87,6 +103,8 @@
   </url><url>
     <loc>/tr/series/igmg/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -100,6 +118,8 @@
   </url><url>
     <loc>/tr/tags/imam/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -113,6 +133,8 @@
   </url><url>
     <loc>/tr/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -126,6 +148,8 @@
   </url><url>
     <loc>/tr/tags/milli-g%C3%B6r%C3%BC%C5%9F/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -139,6 +163,8 @@
   </url><url>
     <loc>/tr/series/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -152,6 +178,8 @@
   </url><url>
     <loc>/tr/tags/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -165,6 +193,8 @@
   </url><url>
     <loc>/tr/posts/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -178,6 +208,8 @@
   </url><url>
     <loc>/tr/posts/igmg-ohne-milli-gorus-fakt-oder-fiktion/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -191,12 +223,18 @@
   </url><url>
     <loc>/tr/tags/ele%C5%9Ftiri/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/genel-kurul/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/hakk%C4%B1-%C3%A7ift%C3%A7i/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -210,6 +248,8 @@
   </url><url>
     <loc>/tr/posts/vorstandskrise-igmg/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -223,6 +263,8 @@
   </url><url>
     <loc>/tr/tags/kemal-erg%C3%BCn/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -236,18 +278,28 @@
   </url><url>
     <loc>/tr/tags/se%C3%A7im/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/y%C3%B6netim/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/%C5%9Feffafl%C4%B1k/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/bildirge/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/cfcm/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -261,6 +313,8 @@
   </url><url>
     <loc>/tr/tags/cimg/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -274,15 +328,23 @@
   </url><url>
     <loc>/tr/tags/din-siyaseti/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/fransa/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/series/fransada-islam/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/posts/franz%C3%B6sische-revolution-igmg/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -296,6 +358,8 @@
   </url><url>
     <loc>/tr/tags/islam/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -309,15 +373,23 @@
   </url><url>
     <loc>/tr/tags/islam-siyaseti/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/series/cemaat/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/din-dersi/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/krm/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -331,6 +403,8 @@
   </url><url>
     <loc>/tr/posts/krm_erweiterung_befreiungsschlag_verzweiflungstat/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -344,12 +418,18 @@
   </url><url>
     <loc>/tr/tags/kurumsalla%C5%9Fma/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/temsil/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/posts/repraesentanz-verbandslandschaft/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -363,15 +443,23 @@
   </url><url>
     <loc>/tr/tags/i%C3%A7erik/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/almanya/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/avrupa/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/gurbet/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -385,54 +473,88 @@
   </url><url>
     <loc>/tr/series/g%C3%B6%C3%A7/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/posts/kalici_mi_gidici-mi/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/paradigma/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/siyaset/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/t%C3%BCrkiye/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/yerellik/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/dernek/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/dil-e%C4%9Fitimi/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/gubet/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/hem%C5%9Fehri-dernekleri/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/posts/hemseri_dernekleri_folklor_kultur/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/vatan/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/bas%C4%B1n-ili%C5%9Fkiler/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/posts/etkinlik_icerik_yeterlilik/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/kamuoyu/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/kurumsal-ili%C5%9Fkiler/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/pr/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -446,39 +568,63 @@
   </url><url>
     <loc>/tr/series/sivil-toplum/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/stk/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/yetkinklik/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/ileti%C5%9Fim/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/din-e%C4%9Fitimi/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/posts/din_egitimi_dil_egitimi/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/e%C4%9Fitim/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/g%C3%B6%C3%A7/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/posts/10_yil_alman_islam_konferansi/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/alman-islam-konferans%C4%B1/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/series/din-devlet/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/ditib/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -492,66 +638,108 @@
   </url><url>
     <loc>/tr/series/kurumsalla%C5%9Fma/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/lobi/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/posts/lobi_calismasi_demisken/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/sivil-toplum/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/series/almanya/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/posts/duygusal_sogukluk_sorumluluk_tuerk_goecmen_toplumu/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/series/lobi/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/series/parlamento/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/series/stk/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/series/tasar%C4%B1/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/series/t%C3%BCrkiye/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/series/yerlilik/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/series/kurumsallasma/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/profesyonellesme/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/posts/sivil_topum_kurumlar%C4%B1m%C4%B1y_kurumsallasma/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/cami/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/cami-cemiyetleri/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/posts/musluman_sosyal_hizmet%C3%BCcalismalari/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/series/sosyal-hizmet/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/sosyal-hizmetler/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tr/tags/barmherzigkeit/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -565,6 +753,8 @@
   </url><url>
     <loc>/tr/tags/doppelstandard/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -578,6 +768,8 @@
   </url><url>
     <loc>/tr/posts/traenen_ueberall_gleich/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -591,6 +783,8 @@
   </url><url>
     <loc>/tr/tags/hilfe/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -604,6 +798,8 @@
   </url><url>
     <loc>/tr/tags/menschlichkeit/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -617,6 +813,8 @@
   </url><url>
     <loc>/tr/tags/selektive-hilfsbereitschaft/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -630,6 +828,8 @@
   </url><url>
     <loc>/tr/tags/selektive-wahrnehmung/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -643,6 +843,8 @@
   </url><url>
     <loc>/tr/tags/spendenbereitschaft/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -655,6 +857,8 @@
                 />
   </url><url>
     <loc>/tr/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -667,6 +871,8 @@
                 />
   </url><url>
     <loc>/tr/kc/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -679,6 +885,8 @@
                 />
   </url><url>
     <loc>/tr/authors/example-author/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -691,6 +899,8 @@
                 />
   </url><url>
     <loc>/tr/authors/hugo-authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -703,6 +913,8 @@
                 />
   </url><url>
     <loc>/tr/impressum/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -715,6 +927,8 @@
                 />
   </url><url>
     <loc>/tr/docs/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -727,6 +941,8 @@
                 />
   </url><url>
     <loc>/tr/publications/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -739,6 +955,8 @@
                 />
   </url><url>
     <loc>/tr/kontakt/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"

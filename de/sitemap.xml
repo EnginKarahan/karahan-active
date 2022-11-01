@@ -4,35 +4,57 @@
   <url>
     <loc>/kc/dienstleistungen/politikberatung/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/docs/muslim-institution/provisorium/</loc>
     <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/kc/dienstleistungen/projektberatung/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/docs/muslim-institution/status-quo/</loc>
     <lastmod>2015-03-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/docs/muslim-institution/</loc>
     <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/kc/dienstleistungen/presse-oeffentlichkeit/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/docs/muslim-institution/kooperation-gemeinschaft/</loc>
     <lastmod>2015-03-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/kc/dienstleistungen/ngo-management/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/docs/muslim-institution/zukunftsperspektiven/</loc>
     <lastmod>2015-03-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/kc/dienstleistungen/traegercoaching/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/authors/engin-karahan/experience/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -46,6 +68,8 @@
   </url><url>
     <loc>/authors/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -59,6 +83,8 @@
   </url><url>
     <loc>/authors/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -72,9 +98,13 @@
   </url><url>
     <loc>/tags/belgien/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/categories/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -88,12 +118,18 @@
   </url><url>
     <loc>/series/dauernoergler/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/dauern%C3%B6rgler/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ditib/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -107,6 +143,8 @@
   </url><url>
     <loc>/authors/engin-karahan/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -120,15 +158,23 @@
   </url><url>
     <loc>/posts/episode_34-die_dauernoergler_noergeln/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/frankreich/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/hamburg/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/igmg/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -142,6 +188,8 @@
   </url><url>
     <loc>/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -155,9 +203,13 @@
   </url><url>
     <loc>/categories/podcast/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -171,6 +223,8 @@
   </url><url>
     <loc>/series/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -184,9 +238,13 @@
   </url><url>
     <loc>/tags/staatsvertrag/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -200,45 +258,73 @@
   </url><url>
     <loc>/tags/verbandspersonal/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/dilettantismus-muslimische-gemeinschaft-belgien/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/executif/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/institutionalisierung/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/islam-in-belgien/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/vertretungsstruktur/</loc>
     <lastmod>2022-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/hugo/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/relaunch/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/relaunch-karahan_net/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/sitemanager/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ssg/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/webseite/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/wordpress/</loc>
     <lastmod>2022-05-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/kc/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -252,12 +338,18 @@
   </url><url>
     <loc>/kc/dienstleistungen/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/spannungen-in-der-igmg-in-frankreich/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/igmg/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -271,27 +363,43 @@
   </url><url>
     <loc>/series/islam-in-frankreich/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/milli-g%C3%B6r%C3%BCs/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/spannung/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/streit/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/transparenz/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/verb%C3%A4nde/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/antisemitismus/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/erbakan/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -305,6 +413,8 @@
   </url><url>
     <loc>/posts/igmg-ohne-milli-gorus-fakt-oder-fiktion/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -318,6 +428,8 @@
   </url><url>
     <loc>/tags/imam/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -331,9 +443,13 @@
   </url><url>
     <loc>/tags/k%C3%BCndigung/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/milli-g%C3%B6r%C3%BC%C5%9F/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -347,18 +463,28 @@
   </url><url>
     <loc>/tags/muslimische-gemeinschaften/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/verband/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/atif/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/auslandseinfluss/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/cfcm/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -372,42 +498,68 @@
   </url><url>
     <loc>/tags/charta/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/darmanin/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/forif/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/frankreich-muslimische-basis/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/laizismus/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/moscheegemeinde/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/amr/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/antimuslimischer-rassismus/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/publications/dagegen-rede-amr/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/islamfeindlichkeit/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/islamkritik/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/muslimfeindlichkeit/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/publications/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -421,9 +573,13 @@
   </url><url>
     <loc>/tags/generalversammlung/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/hakk%C4%B1-%C3%A7ift%C3%A7i/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -437,6 +593,8 @@
   </url><url>
     <loc>/tags/kemal-erg%C3%BCn/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -450,12 +608,18 @@
   </url><url>
     <loc>/tags/kritik/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/vorstand/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/vorstandskrise-igmg/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -469,60 +633,98 @@
   </url><url>
     <loc>/tags/vorstandswahl/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/igg%C3%B6/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/islam-in-%C3%B6sterreich/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/landkarte/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/moschee/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/moscheeregister/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/wo-ist-meine-moschee/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/%C3%B6sterreich/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ambiguit%C3%A4t/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/glaben/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/glauben-oder-eindeutigkeit/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/konservativismus/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/talha-hakan-alp/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/theologie/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/theologie/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/tradition/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/traditionalismus/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/weltanschauung/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/cimg/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -536,9 +738,13 @@
   </url><url>
     <loc>/tags/frankfreich/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/franz%C3%B6sische-revolution-igmg/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -552,6 +758,8 @@
   </url><url>
     <loc>/tags/islam/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -565,234 +773,388 @@
   </url><url>
     <loc>/series/islam-in-frankfreich/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/islampolitik/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/transformation/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/transformation-rueckwaerts/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/amr/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/angriff/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/angriff-auf-moscheen/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/anschlag/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/moscheeangriff/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/muslim-institution/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/sicherheit/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/sicherheitskonzept/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/jugend/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/jugendarbeit/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/jugendpr%C3%A4ventionsarbeit/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/muslimische-organisation/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/publications/muslim-perspektive-jugendpraevention/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/pr%C3%A4vention/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/akp/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ayasofya/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/erdogan/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/hagia-sophia/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/hagia-sophia-rechnung/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/identit%C3%A4tsdiskurs/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ideologie/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/islamismus/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kemalismus/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kirche/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/nationalismus/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/t%C3%BCrkei/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/mehmet-akif-ersoy/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/necip-fazil-kisak%C3%BCrek/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/nfk/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/cagrici-necip-fazil-kisakurek/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/afd/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/cdu/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/fdp/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/h%C3%B6cke/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/k%C3%A4mmerich/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ministerpr%C3%A4sident/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/nach-th%C3%BCringen-als-muslim/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/rassismus/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/th%C3%BCringen/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/dn-episode05-ale-jahre-wieder/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/jahresausklang/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/muslime/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/weihnachten/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/weihnachtsmarkt/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/dn-episode04-wir-uber-uns/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/g%C3%BCvercin/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/karahan/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kayman/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/pers%C3%B6nlich/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/wir-%C3%BCber-uns/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ausland/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/deutschkenntnisse/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/deutschland/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/diyanet/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/dn-episode03-imame-made-in-germany/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/imame/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/import-imam/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/deutsch/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/dn-episode02-wir-ersticken-an-identitaeten/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/identit%C3%A4t/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kultur/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/nation/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/nationalit%C3%A4t/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/t%C3%BCrkisch/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/dn-episode-01-muslimische-organisationen/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/innenansicht/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/muslimisch/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/organisation/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/selbstwahrnehmung/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/erweiterung/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/iru/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/islamischer-religionsunterricht/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/krm/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -806,6 +1168,8 @@
   </url><url>
     <loc>/posts/krm_erweiterung_befreiungsschlag_verzweiflungstat/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -819,48 +1183,78 @@
   </url><url>
     <loc>/tags/religionsgemeinschaft/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/religionspolitik/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/vertretung/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/publications/herausforderung-jugendarbeit/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/muslimische-jugendarbeit/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/basis/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/islam-in-deutschland/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/publications/umbruch-basis/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/wohlfahrt/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/agg/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/akteure/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/publications/claim-akteure-herausforderungen/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/diskriminierung/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/repr%C3%A4sentanz/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/repraesentanz-verbandslandschaft/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -874,30 +1268,48 @@
   </url><url>
     <loc>/tags/dgb/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/mesut-%C3%B6zil/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/mesut-oezil/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/rassismus/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/resilienz/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/deutsch-t%C3%BCrken/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/diaspora/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/gurbet-tuerkische-diaspora/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/gurbet/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -911,114 +1323,188 @@
   </url><url>
     <loc>/tags/gewalt/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/konflikte/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/milit%C3%A4r/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/terror/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/waffen/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/waffen-gestalten-nicht/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/community/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/inner-community-krisenbewaeltigung/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/krise/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/krisenmanagement/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/mediation/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/moral/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/moralit%C3%A4t/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/nouman-ali-khan/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/pers%C3%B6nlichkeit/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/%C3%B6ffentlichkeit/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/muslime-in-deutschland/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/oeffnet-sich-die-moschee-nur-einen-tag/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/europa/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/integration/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/partizipation/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/studie/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/studie/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/studie-muslime-europa-zugehoerig/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/teilhabe/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/zugeh%C3%B6rigkeit/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/diskurs/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/publications/muslime-herausforderung-flucht/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/flucht/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/flucht/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/in-welcher-sprache-welche-debatte/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/mehrsprachigkeit/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/migration/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/redlichkeit/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/t%C3%BCrkeist%C3%A4mmig/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/muslimische-gemeinschaft/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/pr/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -1032,42 +1518,68 @@
   </url><url>
     <loc>/posts/oeffentlichkeitsarbeit-muslimischer-gemeinschaften/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/verbandsarbeit/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/%C3%B6ffentlichkeitsarbeit/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/publications/moschee-dorf-ditib/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/ditib/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/spitzelaff%C3%A4re/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/debatte/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ersatzdebatte/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/islamdiskurs/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/religion/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/s%C3%A4kularismus/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/publications/zu-viel-islam/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/docs/</loc>
     <lastmod>2022-04-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -1081,288 +1593,478 @@
   </url><url>
     <loc>/tags/dialogforum/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/dik/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/islamforum/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/islamgesetz/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/islamkonferenz/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kurz/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/misstrauen-gesetzesform/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/muslime-in-%C3%B6sterreich/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/sanac/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/notfallbegleitung/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/publications/notfallbegleitung-muslime/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/notfallseelsorge/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/seelsorge/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/soziales-netz/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/sterbebegleitung/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/verst%C3%A4dterung/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/wohlfahrt/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/christentum/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/religion-in-inkulturalisierten-dosen/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/religionspolitik/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/s%C3%A4kularisierung/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/akzeptiert-statt-toleriert/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/pluralismus/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/recht/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/religionsverfassungsrecht/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/toleranz/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/verfassung/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/dialogforum_islam-oesterreich-iggoe/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/stellungnahme/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/islamische-theologie-deutsche-universitaeten/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/lehrstuhl/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/universit%C3%A4t/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/berlin/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/berliner-beschneidungsregelung/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/beschneidung/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/gesetz/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/judentum/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/bmi/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/gemeinschaft/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/sicherer-massstab-loyaler-muslim/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/sicherheitspartnerschaft/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/sicherheitspolitik/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ausbildung/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/bekenntnisbindung/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/imamausbildung-in-deutschland/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/praxis/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/erwartungen-an-den-iru/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/religionsunterricht/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/schule/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ads/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/antidiskriminierungsarbeit-gesellschaftliche-mitte/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/antidiskriminierungsstelle/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ausl%C3%A4nderbeirat/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/auslaenderbeirat-kommunalpolitik/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kommunalpolitik/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/migrationsausschuss/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/partizipation/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/stadtrat/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/wertekonsens-pluralismus-grundgesetz/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/homogenit%C3%A4t/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/leitkultur/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/wertekonses/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/deutsche-islam-konferenz/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/index/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/literaturliste/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/sicherheitsdiskurs/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/vertrauensbildende-ma%C3%9Fnahmen/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/dialog-sicherheitsbehoerden-literaturlisten/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/altenhilfe/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kultursensible-pflege/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/muslimische-senioren/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/senioren/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/seniorenbetreuung/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/aeltere-migranten-deutschland/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/aerzteblatt-beschneidung-jungen-maedchen/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/jungen/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kulturrassismus/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/europaeisches-kalifat-ceric/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/40-hadise/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/40-hadise-nawawi/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/hadis/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kommentar/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/nawawi/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/rezension/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ausl%C3%A4nder/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/brand/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/integration/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/integration-vertrauen-krisenzeiten/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ludwigshafen/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/vertrauen/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/kuscheldialog-integrationsdebatte/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/series/diskriminierung/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/journalismus/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/journalismus_unwissen/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/barmherzigkeit/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -1376,6 +2078,8 @@
   </url><url>
     <loc>/tags/doppelstandard/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -1389,6 +2093,8 @@
   </url><url>
     <loc>/tags/hilfe/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -1402,6 +2108,8 @@
   </url><url>
     <loc>/tags/menschlichkeit/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -1415,6 +2123,8 @@
   </url><url>
     <loc>/tags/selektive-hilfsbereitschaft/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -1428,6 +2138,8 @@
   </url><url>
     <loc>/tags/selektive-wahrnehmung/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -1441,6 +2153,8 @@
   </url><url>
     <loc>/tags/spendenbereitschaft/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -1454,6 +2168,8 @@
   </url><url>
     <loc>/posts/traenen_ueberall_gleich/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -1467,106 +2183,176 @@
   </url><url>
     <loc>/tags/essen/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/halal/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/haram/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/regeln/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/religionsfreiheit/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/speisevorschriften-islam/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/dialog/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ehe/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/interreligi%C3%B6s/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/katholische-kirche/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/neuer-kurs-vatikan/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/papst/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/bedeutung/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/freitagsgebet/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/dschuma/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/freitag/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/freitagsgebet/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/gebet/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/frau/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kippa/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kopftuch/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kopftuchstreit/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kreuz/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kreuzzug/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kruzifix/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/symbol/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/unterdrueckueng-politische-symbole/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ekd/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/huber/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/kopftuchverbot/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/nonne/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/ordenstracht/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/wozu-dialog/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/kontakt/absenden/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/authors/example-author/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -1579,6 +2365,8 @@
                 />
   </url><url>
     <loc>/authors/hugo-authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -1591,6 +2379,8 @@
                 />
   </url><url>
     <loc>/impressum/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
@@ -1603,6 +2393,8 @@
                 />
   </url><url>
     <loc>/kontakt/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
