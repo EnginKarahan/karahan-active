@@ -140,6 +140,10 @@
 
 
 
+<meta property="og:locale:alternate" content="tr" />
+
+
+
 
 <meta property="og:site_name" content="Karahan.net" />
 
@@ -226,6 +230,19 @@
                     <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
                 </div>
             </div>
+            <div class="relative pt-4 ps-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="languageMode">
+                    <i class="fas fa-globe"></i>
+                    <span class="ps-1">Deutsch</span>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
+                </div>
+                <div class="absolute flex flex-col start-0 md:start-auto end-auto md:end-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='languageOptions'>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://karahan.net/posts/dilettantismus-muslimische-gemeinschaft-belgien/">Deutsch</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://karahan.net/tr/posts/dilettantismus-muslimische-gemeinschaft-belgien/">Türkçe</a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -253,6 +270,7 @@
     document.addEventListener('DOMContentLoaded', () => {
         getcolorscheme();
         switchBurger();
+        switchLanguage()
     });
 </script>
 </div>
@@ -310,7 +328,7 @@
   <p>Lange sind die Zeiten vorbei, als noch eine gemeinsame Pressekonferenz der muslimischen Gemeinden zum Beispiel zum Thema der Gewissensprüfung in Baden-Württemberg (08. Februar 2006 in Köln) einen ganzen Saal mit Journalisten füllen und nicht nur in der regionalen, sondern auch in der überregionalen Presse Niederschlag finden konnte. Lange ist es auch her, dass die Entwicklungen innerhalb der muslimischen Community regelmäßig Platz auf Seite 3 der großen Tageszeitungen finden konnten, ob es um den <a href="https://koordinationsrat.de/">Koordinationsrat der Muslime</a> oder Positionen in der <a href="https://www.deutsche-islam-konferenz.de/">Deutschen Islamkonferenz</a> ging. Mittlerweile bekommt die Öffentlichkeit kaum mit, dass muslimische Repräsentanz nicht nur in Deutschland sondern auch auf europäischer Ebene um ihre Wahrnehmung und Existenz fürchten muss.</p>
 <h2 id="auflösungstendenzen-muslimischer-repräsentanz">Auflösungstendenzen muslimischer Repräsentanz</h2>
 <p>Bereits Mitte der 2010er Jahre wurde die bis dahin wirkmächtigste muslimische Vertretungsstruktur, die<a href="../../posts/misstrauen-gesetzesform/"> Islamische Glaubensgemeinschaft in Österreich (IGGiÖ)</a> unter der Ägide des Staatssekretärs für Integration und späteren Außenministers Sebastian Kurz unter dem Vorwand der Reformierung bis hin zu ihrer Rechtspersönlichkeit entkleidet. Akteure innerhalb der IGGÖ trugen im Rahmen so mancher <a href="https://www.kleinezeitung.at/politik/innenpolitik/5409374/Kriegsspiele-in-Moschee_Atib_Verantwortlicher-Imam-wurde-suspendiert">Vorfälle</a> dazu bei, dass die öffentliche Wahrnehmung der nun IGGÖ genannten Glaubensgemeinschaft weiter in <a href="https://www.heise.de/tp/features/Katar-finanziert-die-Strukturen-der-Muslimbruderschaft-in-ganz-Europa-4921129.html?seite=all">Mitleidenschaft</a> gezogen wurde.</p>
-<p>Tragischer endete die Vertretungsstruktur der französischen Muslime, dem „<a href="https://www.cfcm-officiel.fr/">Kultusrates der französischen Muslime</a>“ (CFCM). Nach heftigen Auseinandersetzungen um die Vereinbarung einer &ldquo;<a href="../../posts/franz%C3%B6sische-revolution-igmg/">Charta der republikanischen Werte</a>&rdquo; als Folge eines von der CIMG angeführten plötzlichen Rückziehers, Skandalen um marokkanische <a href="https://www.lepoint.fr/societe/exclusif-l-offensive-des-services-secrets-marocains-sur-l-islam-de-france-01-12-2021-2454702_23.php">Geheimagenten</a>  in der CFCM und Auseinandersetzungen mit der <a href="../../posts/spannungen-in-der-igmg-in-frankreich/">Milli Görüs</a> in Frankreich, erklärte der französische Innenminister die CFCM als staatlichen Ansprechpartner &ldquo;für tot&rdquo; und wandte sich stattdessen direkt an die <a href="../../posts/frankreich-muslimische-basis/">muslimische Basis</a>.</p>
+<p>Tragischer endete die Vertretungsstruktur der französischen Muslime, dem „<a href="https://www.cfcm-officiel.fr/">Kultusrates der französischen Muslime</a>“ (CFCM). Nach heftigen Auseinandersetzungen um die Vereinbarung einer &ldquo;<a href="../../posts/franzoesische-revolution-igmg/">Charta der republikanischen Werte</a>&rdquo; als Folge eines von der CIMG angeführten plötzlichen Rückziehers, Skandalen um marokkanische <a href="https://www.lepoint.fr/societe/exclusif-l-offensive-des-services-secrets-marocains-sur-l-islam-de-france-01-12-2021-2454702_23.php">Geheimagenten</a>  in der CFCM und Auseinandersetzungen mit der <a href="../../posts/spannungen-in-der-igmg-in-frankreich/">Milli Görüs</a> in Frankreich, erklärte der französische Innenminister die CFCM als staatlichen Ansprechpartner &ldquo;für tot&rdquo; und wandte sich stattdessen direkt an die <a href="../../posts/frankreich-muslimische-basis/">muslimische Basis</a>.</p>
 <h2 id="belgien-dilettantismus-intransparenz-und-ausländische-beeinflussung">Belgien: Dilettantismus, Intransparenz und ausländische Beeinflussung</h2>
 <p>Mitte September 2022 erklärte nunmehr der belgische Justizminister <a href="http://www.vincentvanquickenborne.be/">Vincent Van Quickenborne</a> in einer <a href="https://www.rtbf.be/article/vincent-van-quickenborne-a-procede-au-retrait-de-la-reconnaissance-de-lexecutif-des-musulmans-de-belgique-11067134">Pressemitteilung</a> die Anerkennung der &ldquo;<a href="https://www.embnet.be/">Exekutive der Muslime Belgiens</a>&rdquo; (EMB) für widerrufen. Forderungen zu mehr Transparenz, Repräsentativität und Unabhängigkeit von den Herkunftsländern seien nicht gehört worden. Die Amtszeit der amtierenden Vorstandsmitglieder sei bereits vor zweieinhalb Jahren abgelaufen, die Entscheidungen würden nur noch von wenigen verbliebenen Mitgliedern getroffen. Trotz mehrerer Zusagen sei auch weiterhin keine demokratische Wahl in Sicht, so der Minister.</p>
 <p>Die kurz <a href="https://fr.wikipedia.org/wiki/Ex%C3%A9cutif_des_musulmans_de_Belgique">Exécutif</a> genannte Vertretung besteht bereits seit 1999 und gehört damit mit zu den ältesten muslimischen Vertretungsorganen, die in dieser Funktion auch direkter Ansprechpartner des Staates und der jeweiligen Regierungen gewesen ist. Neben der Anerkennung von Moscheegemeinden lag die Organisation des Religionsunterrichts, die Ausbildung und Ernennung von Imamen und die Errichtung von islamischen Grabstätten im Aufgabenbereich der Exécutif. Mit der staatlichen Anerkennung der Organisation war  eine <a href="https://www.rtbf.be/article/retrait-de-la-reconnaissance-de-lexecutif-des-musulmans-la-procedure-a-ete-enclenchee-annonce-vincent-van-quickenborne-10937824">jährliche Subvention in Höhe von 600.000 €</a> verbunden. Imame in anerkannten Moscheen und Religionslehrer wurden mit staatlichen Geldern finanziert.</p>
@@ -528,7 +546,7 @@
           <a href="https://karahan.net/posts/vorstandskrise-igmg/" class="no-underline">Vorstandskrise am Vorabend der IGMG Generalversammlung</a>
           <br />
         
-          <a href="https://karahan.net/posts/franz%C3%B6sische-revolution-igmg/" class="no-underline">Französische Revolution in der IGMG - eine IGMG, viele Gesichter?</a>
+          <a href="https://karahan.net/posts/franzoesische-revolution-igmg/" class="no-underline">Französische Revolution in der IGMG - eine IGMG, viele Gesichter?</a>
           <br />
         
       </div>
