@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on Karahan.net</title>
-    <link>/tags/hugo/</link>
+    <link>https://karahan.net/tags/hugo/</link>
     <description>Recent content in hugo on Karahan.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
 </copyright>
-    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Relaunch - Karahan.net komplett überarbeitet</title>
-      <link>/posts/relaunch-karahan_net/</link>
+      <link>https://karahan.net/posts/relaunch-karahan_net/</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/relaunch-karahan_net/</guid>
+      <guid>https://karahan.net/posts/relaunch-karahan_net/</guid>
       <description>Seit 2007 und damit 15 Jahren läuft karahan.net auf dem CMS-System Wordpress. Wordpress war zu Beginn ein recht einfaches, leicht zu handhabbares Blog-System, das sich mittlerweile zu einem mächtigen Allrounder im Bereich der Web-Content-Präsentation gemausert hat. Die stetigen Funktionserweiterungen führten jedoch auch zu einer Überfrachtung, die für mich jedoch der Grund waren, nach einer Alternative für den technischen Unterbau meiner Webseite zu suchen.</description>
     </item>
     

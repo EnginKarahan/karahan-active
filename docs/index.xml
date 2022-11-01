@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Themen on Karahan.net</title>
-    <link>/docs/</link>
+    <link>https://karahan.net/docs/</link>
     <description>Recent content in Themen on Karahan.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
 </copyright>
-    <lastBuildDate>Thu, 19 Mar 2015 00:00:00 +0000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Mar 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/docs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

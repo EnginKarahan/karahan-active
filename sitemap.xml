@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>/de/sitemap.xml</loc>
+    <loc>https://karahan.net/de/sitemap.xml</loc>
     
       <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>/tr/sitemap.xml</loc>
+    <loc>https://karahan.net/tr/sitemap.xml</loc>
     
       <lastmod>2022-04-30T00:00:00+00:00</lastmod>
     
