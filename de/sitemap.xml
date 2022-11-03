@@ -67,7 +67,7 @@
                 />
   </url><url>
     <loc>https://karahan.net/authors/</loc>
-    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -82,7 +82,7 @@
                 />
   </url><url>
     <loc>https://karahan.net/authors/</loc>
-    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -95,6 +95,171 @@
                 hreflang="de"
                 href="https://karahan.net/authors/"
                 />
+  </url><url>
+    <loc>https://karahan.net/authors/engin-karahan/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/authors/engin-karahan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/authors/engin-karahan/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tags/erbakan/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/erbakan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/erbakan/"
+                />
+  </url><url>
+    <loc>https://karahan.net/posts/heimat-finden-im-fremden/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/tags/igmg/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/igmg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/igmg/"
+                />
+  </url><url>
+    <loc>https://karahan.net/series/igmg/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/series/igmg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/series/igmg/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tags/islamismus/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tags/kemal-erg%C3%BCn/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/kemal-erg%C3%BCn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/kemal-erg%C3%BCn/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tags/post-islamismus/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/posts/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/posts/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tags/re-ethnisierung/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/tags/schiffauer/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/series/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/series/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tags/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tags/transformation/</loc>
+    <lastmod>2022-11-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://karahan.net/tags/belgien/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
@@ -141,21 +306,6 @@
                 href="https://karahan.net/tags/ditib/"
                 />
   </url><url>
-    <loc>https://karahan.net/authors/engin-karahan/</loc>
-    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://karahan.net/tr/authors/engin-karahan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://karahan.net/authors/engin-karahan/"
-                />
-  </url><url>
     <loc>https://karahan.net/posts/episode_34-die_dauernoergler_noergeln/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -171,90 +321,15 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://karahan.net/tags/igmg/</loc>
-    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://karahan.net/tr/tags/igmg/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://karahan.net/tags/igmg/"
-                />
-  </url><url>
-    <loc>https://karahan.net/</loc>
-    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://karahan.net/tr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://karahan.net/"
-                />
-  </url><url>
     <loc>https://karahan.net/categories/podcast/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://karahan.net/posts/</loc>
-    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://karahan.net/tr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://karahan.net/posts/"
-                />
-  </url><url>
-    <loc>https://karahan.net/series/</loc>
-    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://karahan.net/tr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://karahan.net/series/"
-                />
-  </url><url>
     <loc>https://karahan.net/tags/staatsvertrag/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://karahan.net/tags/</loc>
-    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://karahan.net/tr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://karahan.net/tags/"
-                />
   </url><url>
     <loc>https://karahan.net/tags/verbandspersonal/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
@@ -366,21 +441,6 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://karahan.net/series/igmg/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://karahan.net/tr/series/igmg/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://karahan.net/series/igmg/"
-                />
-  </url><url>
     <loc>https://karahan.net/series/islam-in-frankreich/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -415,21 +475,6 @@
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://karahan.net/tags/erbakan/</loc>
-    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://karahan.net/tr/tags/erbakan/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://karahan.net/tags/erbakan/"
-                />
   </url><url>
     <loc>https://karahan.net/posts/igmg-ohne-milli-gorus-fakt-oder-fiktion/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
@@ -611,21 +656,6 @@
                 href="https://karahan.net/tags/hakk%C4%B1-%C3%A7ift%C3%A7i/"
                 />
   </url><url>
-    <loc>https://karahan.net/tags/kemal-erg%C3%BCn/</loc>
-    <lastmod>2022-04-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://karahan.net/tr/tags/kemal-erg%C3%BCn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://karahan.net/tags/kemal-erg%C3%BCn/"
-                />
-  </url><url>
     <loc>https://karahan.net/tags/kritik/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -801,11 +831,6 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://karahan.net/tags/transformation/</loc>
-    <lastmod>2022-04-06T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://karahan.net/posts/transformation-rueckwaerts/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -912,11 +937,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://karahan.net/tags/ideologie/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://karahan.net/tags/islamismus/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
