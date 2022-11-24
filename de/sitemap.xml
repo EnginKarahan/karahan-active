@@ -130,6 +130,16 @@
     <lastmod>2022-11-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/posts/heimat-finden-im-fremden/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/posts/heimat-finden-im-fremden/"
+                />
   </url><url>
     <loc>https://karahan.net/tags/igmg/</loc>
     <lastmod>2022-11-04T00:00:00+00:00</lastmod>
@@ -225,6 +235,16 @@
     <lastmod>2022-11-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/schiffauer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/schiffauer/"
+                />
   </url><url>
     <loc>https://karahan.net/series/</loc>
     <lastmod>2022-11-04T00:00:00+00:00</lastmod>
