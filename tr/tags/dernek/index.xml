@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dernek on Karahan.net</title>
+    <title>dernek on Karahan.net</title>
     <link>https://karahan.net/tr/tags/dernek/</link>
-    <description>Recent content in Dernek on Karahan.net</description>
+    <description>Recent content in dernek on Karahan.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
     <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
 </copyright>
-    <lastBuildDate>Tue, 22 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tr/tags/dernek/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tr/tags/dernek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fransa Müslüman Tabanla Konuşuyor</title>
+      <link>https://karahan.net/tr/posts/frankreich-muslimische-basis/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://karahan.net/tr/posts/frankreich-muslimische-basis/</guid>
+      <description>Cumhuriyetçi Değerler Bildirgesi&amp;quot; konusundaki anlaşmazlıklar ve CFCM&amp;rsquo;deki casusluk iddialarının ardından Fransa İçişleri Bakanlığı, Müslüman taban ve cami cemaatleriyle doğrudan diyalog arayışına girdi.
+Bu hamle beklenmedik değildi ve bir süredir gündemdeydi. Ülkedeki dini cemaatlerle diyalogdan sorumlu olan Fransa İçişleri Bakanlığı, Müslüman derneklerin ulusal liderlerini atlayarak Müslüman taban ve cami cemaatleriyle doğrudan temas kurmaya çalışıyor.</description>
+    </item>
+    
+    <item>
+      <title>Camim nerede?</title>
+      <link>https://karahan.net/tr/posts/wo-ist-meine-moschee/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://karahan.net/tr/posts/wo-ist-meine-moschee/</guid>
+      <description>Avusturya&amp;rsquo;daki İslam haritası hakkındaki eleştiri ve öfke haklı. Camilerin, ilgililerin müdahale etme imkanı olmaksızın kamuya açık bir şekilde kategorize edilmesi, kamusal bir karalama işlevini yerine getirebilir, ancak bilimsel olarak masum bir çalışma iddiasını taşımaz.
+Resmi bir fişleme kaydı niteliği, bilinçli veya bilinçsiz olarak yayılan yanlış bilgi ve yanlış sınıflandırmaların muhtemel önemsizliği, Müslüman toplum içinde gerçekten var olan sorunlu gruplara ilişkin nesnellik ve tarafsızlık taklidi ile birlikte eş zamanlı yüzeysellik, bu &amp;ldquo;İslam haritası&amp;quot;nda beni rahatsız eden noktalardan sadece birkaçı.</description>
+    </item>
+    
     <item>
       <title>Hemşehri Dernekleri – Eskimiş folklor mu, geleceğin kültürel hizmet kurumları mı?</title>
       <link>https://karahan.net/tr/posts/hemseri_dernekleri_folklor_kultur/</link>
