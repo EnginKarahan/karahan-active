@@ -17,7 +17,7 @@
                 />
   </url><url>
     <loc>https://karahan.net/tr/authors/</loc>
-    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -32,7 +32,7 @@
                 />
   </url><url>
     <loc>https://karahan.net/tr/authors/</loc>
-    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -52,7 +52,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://karahan.net/tr/authors/engin-karahan/</loc>
-    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -127,7 +127,7 @@
                 />
   </url><url>
     <loc>https://karahan.net/tr/</loc>
-    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -177,7 +177,7 @@
                 />
   </url><url>
     <loc>https://karahan.net/tr/series/</loc>
-    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -192,7 +192,7 @@
                 />
   </url><url>
     <loc>https://karahan.net/tr/tags/</loc>
-    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -207,7 +207,7 @@
                 />
   </url><url>
     <loc>https://karahan.net/tr/posts/</loc>
-    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -592,7 +592,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://karahan.net/tr/tags/cfcm/</loc>
-    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -657,7 +657,7 @@
                 />
   </url><url>
     <loc>https://karahan.net/tr/tags/fransa/</loc>
-    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -787,7 +787,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://karahan.net/tr/tags/igg%C3%B6/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -863,6 +863,101 @@
   </url><url>
     <loc>https://karahan.net/tr/tags/islam-siyaseti/</loc>
     <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/tr/posts/ruecktritt-akay-iggoe/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/posts/ruecktritt-akay-iggoe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/posts/ruecktritt-akay-iggoe/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/dini-cemaat/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/tr/tags/e%C5%9Fitlik/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/tr/series/islam-ve-avusturya/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/tr/tags/te%C5%9Fkilatlarda-kad%C4%B1nlar/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/tr/tags/cezair/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/tr/tags/diyanet/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/diyanet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/diyanet/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/fas/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/tr/posts/imame-ausland-frankreich/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/posts/imame-ausland-frankreich/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/posts/imame-ausland-frankreich/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/series/islam-ve-fransa/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/tr/tags/tunus/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/tr/tags/t%C3%BCrkiye/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/tr/tags/imam-e%C4%9Fitimi/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -977,11 +1072,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://karahan.net/tr/tags/siyaset/</loc>
-    <lastmod>2022-04-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://karahan.net/tr/tags/t%C3%BCrkiye/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
