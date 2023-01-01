@@ -935,6 +935,16 @@
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/moschee/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/moschee/"
+                />
   </url><url>
     <loc>https://karahan.net/tags/moscheeregister/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
@@ -1080,26 +1090,76 @@
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/amr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/amr/"
+                />
   </url><url>
     <loc>https://karahan.net/tags/angriff/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/angriff/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/angriff/"
+                />
   </url><url>
     <loc>https://karahan.net/posts/angriff-auf-moscheen/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/posts/angriff-auf-moscheen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/posts/angriff-auf-moscheen/"
+                />
   </url><url>
     <loc>https://karahan.net/tags/anschlag/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/anschlag/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/anschlag/"
+                />
   </url><url>
     <loc>https://karahan.net/tags/moscheeangriff/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/moscheeangriff/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/moscheeangriff/"
+                />
   </url><url>
     <loc>https://karahan.net/series/muslim-institution/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
@@ -1110,11 +1170,31 @@
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/sicherheit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/sicherheit/"
+                />
   </url><url>
     <loc>https://karahan.net/tags/sicherheitskonzept/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/sicherheitskonzept/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/sicherheitskonzept/"
+                />
   </url><url>
     <loc>https://karahan.net/series/jugend/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
