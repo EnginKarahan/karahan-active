@@ -126,6 +126,11 @@
                 href="https://karahan.net/tr/series/igmg/"
                 />
   </url><url>
+    <loc>https://karahan.net/tr/tags/islamc%C4%B1l%C4%B1k/</loc>
+    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://karahan.net/tr/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -220,11 +225,6 @@
                 hreflang="tr"
                 href="https://karahan.net/tr/posts/"
                 />
-  </url><url>
-    <loc>https://karahan.net/tr/tags/islamc%C4%B1l%C4%B1k/</loc>
-    <lastmod>2022-11-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://karahan.net/tr/posts/dilettantismus-muslimische-gemeinschaft-belgien/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
@@ -516,6 +516,21 @@
                 href="https://karahan.net/tr/tags/verb%C3%A4nde/"
                 />
   </url><url>
+    <loc>https://karahan.net/tr/posts/igmg-ohne-milli-gorus-fakt-oder-fiktion/</loc>
+    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/posts/igmg-ohne-milli-gorus-fakt-oder-fiktion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/posts/igmg-ohne-milli-gorus-fakt-oder-fiktion/"
+                />
+  </url><url>
     <loc>https://karahan.net/tr/tags/antisemitism/</loc>
     <lastmod>2022-04-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -554,21 +569,6 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://karahan.net/tr/tags/milli-g%C3%B6r%C3%BC%C5%9F/"
-                />
-  </url><url>
-    <loc>https://karahan.net/tr/posts/igmg-ohne-milli-gorus-fakt-oder-fiktion/</loc>
-    <lastmod>2022-04-07T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://karahan.net/posts/igmg-ohne-milli-gorus-fakt-oder-fiktion/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://karahan.net/tr/posts/igmg-ohne-milli-gorus-fakt-oder-fiktion/"
                 />
   </url><url>
     <loc>https://karahan.net/tr/tags/atif/</loc>
@@ -736,12 +736,12 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://karahan.net/tr/tags/y%C3%B6netim/</loc>
+    <loc>https://karahan.net/tr/tags/%C5%9Feffafl%C4%B1k/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://karahan.net/tr/tags/%C5%9Feffafl%C4%B1k/</loc>
+    <loc>https://karahan.net/tr/tags/y%C3%B6netim/</loc>
     <lastmod>2022-04-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -847,7 +847,7 @@
                 />
   </url><url>
     <loc>https://karahan.net/tr/tags/islam/</loc>
-    <lastmod>2022-04-08T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -867,7 +867,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://karahan.net/tr/tags/amr/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -1026,6 +1026,126 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://karahan.net/tr/posts/cagrici-necip-fazil-kisakurek/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/posts/cagrici-necip-fazil-kisakurek/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/posts/cagrici-necip-fazil-kisakurek/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/series/identit%C3%A4tsdiskurs/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/series/identit%C3%A4tsdiskurs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/series/identit%C3%A4tsdiskurs/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/islamismus/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/islamismus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/islamismus/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/kritik/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/kritik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/kritik/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/mehmet-akif-ersoy/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/mehmet-akif-ersoy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/mehmet-akif-ersoy/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/nationalismus/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/nationalismus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/nationalismus/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/necip-fazil-kisak%C3%BCrek/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/necip-fazil-kisak%C3%BCrek/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/necip-fazil-kisak%C3%BCrek/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/nfk/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/nfk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/nfk/"
+                />
+  </url><url>
     <loc>https://karahan.net/tr/tags/cezair/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1071,17 +1191,17 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://karahan.net/tr/tags/imam-e%C4%9Fitimi/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://karahan.net/tr/tags/tunus/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://karahan.net/tr/tags/t%C3%BCrkiye/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://karahan.net/tr/tags/imam-e%C4%9Fitimi/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1166,6 +1286,11 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://karahan.net/tr/series/g%C3%B6%C3%A7/</loc>
+    <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://karahan.net/tr/tags/gurbet/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1180,11 +1305,6 @@
                 hreflang="tr"
                 href="https://karahan.net/tr/tags/gurbet/"
                 />
-  </url><url>
-    <loc>https://karahan.net/tr/series/g%C3%B6%C3%A7/</loc>
-    <lastmod>2022-04-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://karahan.net/tr/posts/kalici_mi_gidici-mi/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
@@ -1241,6 +1361,11 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://karahan.net/tr/tags/ileti%C5%9Fim/</loc>
+    <lastmod>2022-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://karahan.net/tr/tags/kamuoyu/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -1277,11 +1402,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://karahan.net/tr/tags/yetkinklik/</loc>
-    <lastmod>2022-04-29T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://karahan.net/tr/tags/ileti%C5%9Fim/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1410,6 +1530,261 @@
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+  </url><url>
+    <loc>https://karahan.net/tr/posts/akzeptiert-statt-toleriert/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/posts/akzeptiert-statt-toleriert/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/posts/akzeptiert-statt-toleriert/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/pluralismus/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/pluralismus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/pluralismus/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/recht/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/recht/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/recht/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/religion/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/religion/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/religion/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/series/religionspolitik/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/series/religionspolitik/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/series/religionspolitik/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/religionsverfassungsrecht/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/religionsverfassungsrecht/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/religionsverfassungsrecht/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/toleranz/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/toleranz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/toleranz/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/verfassung/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/verfassung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/verfassung/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/ads/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/ads/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/ads/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/agg/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/agg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/agg/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/antidiskriminierungsstelle/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/antidiskriminierungsstelle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/antidiskriminierungsstelle/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/antimuslimischer-rassismus/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/antimuslimischer-rassismus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/antimuslimischer-rassismus/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/posts/antidiskriminierungsarbeit-gesellschaftliche-mitte/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/posts/antidiskriminierungsarbeit-gesellschaftliche-mitte/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/posts/antidiskriminierungsarbeit-gesellschaftliche-mitte/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/diskriminierung/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/diskriminierung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/diskriminierung/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/tags/islamfeindlichkeit/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/tags/islamfeindlichkeit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/tags/islamfeindlichkeit/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/series/rassismus/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/series/rassismus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/series/rassismus/"
+                />
+  </url><url>
+    <loc>https://karahan.net/tr/posts/europaeisches-kalifat-ceric/</loc>
+    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/posts/europaeisches-kalifat-ceric/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/posts/europaeisches-kalifat-ceric/"
+                />
   </url><url>
     <loc>https://karahan.net/tr/tags/barmherzigkeit/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
@@ -1601,6 +1976,20 @@
                 href="https://karahan.net/tr/impressum/"
                 />
   </url><url>
+    <loc>https://karahan.net/tr/kontakt/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://karahan.net/kontakt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://karahan.net/tr/kontakt/"
+                />
+  </url><url>
     <loc>https://karahan.net/tr/docs/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1627,20 +2016,6 @@
                 rel="alternate"
                 hreflang="tr"
                 href="https://karahan.net/tr/publications/"
-                />
-  </url><url>
-    <loc>https://karahan.net/tr/kontakt/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://karahan.net/kontakt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://karahan.net/tr/kontakt/"
                 />
   </url>
 </urlset>
