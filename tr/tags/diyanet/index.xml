@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Diyanet on Karahan.net</title>
-    <link>https://karahan.net/tr/tags/diyanet/</link>
-    <description>Recent content in Diyanet on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>tr</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tr/tags/diyanet/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fransız Müslümanları İçin Yurt Dışından İmam Yok</title>
-      <link>https://karahan.net/tr/posts/imame-ausland-frankreich/</link>
-      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/tr/posts/imame-ausland-frankreich/</guid>
-      <description>Fransa Cumhurbaşkanı Emmanuel Macron geçtiğimiz hafta yabancı ülkelerin Fransa&amp;rsquo;ya imam ve öğretmen göndermesine olanak tanıyan programın sona erdiğini açıkladı. France 24 kanalının haberine göre, Alsace Mulhouse&amp;rsquo;da bir basın toplantısı düzenleyen Cumhurbaşkanı, bunun amacının Fransa&amp;rsquo;da İslam&amp;rsquo;ın yaşanması ve örgütlenmesi üzerindeki &amp;ldquo;yabancı etkisini&amp;rdquo; kırmak olduğunu söyledi.
-Macron, 1977 yılından bu yana yürürlükte olan ve dokuz ülkenin kendi vatandaşlarına dini hizmetler ve kendi dillerinde eğitim vermek üzere Fransa&amp;rsquo;daki okul ve camilere kendi imam ve öğretmenlerini göndermelerine olanak tanıyan programı sona erdirme niyetinde olduğunu açıkladı.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Diyanet - Tag - Karahan.net</title>
+        <link>https://karahan.net/tr/tags/diyanet/</link>
+        <description>Diyanet - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>tr</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Mon, 24 Feb 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tr/tags/diyanet/" rel="self" type="application/rss+xml" /><item>
+    <title>Fransız Müslümanları İçin Yurt Dışından İmam Yok</title>
+    <link>https://karahan.net/tr/posts/imame-ausland-frankreich/</link>
+    <pubDate>Mon, 24 Feb 2020 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/tr/posts/imame-ausland-frankreich/</guid>
+    <description><![CDATA[Fransa Cumhurbaşkanı Emmanuel Macron geçtiğimiz hafta yabancı ülkelerin Fransa&rsquo;ya imam ve öğretmen göndermesine olanak tanıyan programın sona erdiğini açıkladı. France 24 kanalının haberine göre, Alsace Mulhouse&rsquo;da bir basın toplantısı düzenleyen Cumhurbaşkanı, bunun amacının Fransa&rsquo;da İslam&rsquo;ın yaşanması ve örgütlenmesi üzerindeki &ldquo;yabancı etkisini&rdquo; kırmak olduğunu söyledi.
+Macron, 1977 yılından bu yana yürürlükte olan ve dokuz ülkenin kendi vatandaşlarına dini hizmetler ve kendi dillerinde eğitim vermek üzere Fransa&rsquo;daki okul ve camilere kendi imam ve öğretmenlerini göndermelerine olanak tanıyan programı sona erdirme niyetinde olduğunu açıkladı.]]></description>
+</item>
+</channel>
 </rss>

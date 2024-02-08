@@ -1,51 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>dernek on Karahan.net</title>
-    <link>https://karahan.net/tr/tags/dernek/</link>
-    <description>Recent content in dernek on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>tr</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tr/tags/dernek/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fransa Müslüman Tabanla Konuşuyor</title>
-      <link>https://karahan.net/tr/posts/frankreich-muslimische-basis/</link>
-      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/tr/posts/frankreich-muslimische-basis/</guid>
-      <description>Cumhuriyetçi Değerler Bildirgesi&amp;quot; konusundaki anlaşmazlıklar ve CFCM&amp;rsquo;deki casusluk iddialarının ardından Fransa İçişleri Bakanlığı, Müslüman taban ve cami cemaatleriyle doğrudan diyalog arayışına girdi.
-Bu hamle beklenmedik değildi ve bir süredir gündemdeydi. Ülkedeki dini cemaatlerle diyalogdan sorumlu olan Fransa İçişleri Bakanlığı, Müslüman derneklerin ulusal liderlerini atlayarak Müslüman taban ve cami cemaatleriyle doğrudan temas kurmaya çalışıyor.</description>
-    </item>
-    
-    <item>
-      <title>Camim nerede?</title>
-      <link>https://karahan.net/tr/posts/wo-ist-meine-moschee/</link>
-      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/tr/posts/wo-ist-meine-moschee/</guid>
-      <description>Avusturya&amp;rsquo;daki İslam haritası hakkındaki eleştiri ve öfke haklı. Camilerin, ilgililerin müdahale etme imkanı olmaksızın kamuya açık bir şekilde kategorize edilmesi, kamusal bir karalama işlevini yerine getirebilir, ancak bilimsel olarak masum bir çalışma iddiasını taşımaz.
-Resmi bir fişleme kaydı niteliği, bilinçli veya bilinçsiz olarak yayılan yanlış bilgi ve yanlış sınıflandırmaların muhtemel önemsizliği, Müslüman toplum içinde gerçekten var olan sorunlu gruplara ilişkin nesnellik ve tarafsızlık taklidi ile birlikte eş zamanlı yüzeysellik, bu &amp;ldquo;İslam haritası&amp;quot;nda beni rahatsız eden noktalardan sadece birkaçı.</description>
-    </item>
-    
-    <item>
-      <title>Hemşehri Dernekleri – Eskimiş folklor mu, geleceğin kültürel hizmet kurumları mı?</title>
-      <link>https://karahan.net/tr/posts/hemseri_dernekleri_folklor_kultur/</link>
-      <pubDate>Tue, 22 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/tr/posts/hemseri_dernekleri_folklor_kultur/</guid>
-      <description>Göçmen toplumu olarak kurumsal tarihimizde hemşehri dernekleri en eski kurumlarımızın başında gelmekteler. Hemşehri dernekleri daha iç göç ile tanıştığımız dönemlerde karşımıza çıkmışlardı. Sivil Toplumu nispeten zayıf olarak değerlendirmemiz gereken dönemlerde göç eden insanlarımız için hemşehri dernekleri ilk kurumsallaşma ve dernekleşme tecrübesini oluşturmaktaydı. Avrupa’ya göçün başlamasıyla birlikte hemşehri derneklerinin bu coğrafyaya da taşınması doğal bir süreç olarak karşımıza çıkmakta.</description>
-    </item>
-    
-    <item>
-      <title>Sivil Toplum Kurumlarımız ve Kurumsallaşmaları</title>
-      <link>https://karahan.net/tr/posts/sivil_topum_kurumlar%C4%B1m%C4%B1y_kurumsallasma/</link>
-      <pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/tr/posts/sivil_topum_kurumlar%C4%B1m%C4%B1y_kurumsallasma/</guid>
-      <description>Sivil Toplum Kurumlarımız son yıllarda bir çok alanda varlıklarını ortaya koymaya başladılar. Kamuoyunda 90lı yıllara nazaran daha görünürler, dil olarak yerel dile daha hakim duruma gelmeye başladılar. Görünürlükte kazanılan bu ivme, STK’ların bizzat kurumsallaşmasına yanısmamakta. Sonuçta halen fahri olarak yürütülmesi mümkün olmayan alanlarda dahi fahri elemanlar ile çalışmalarını sürdüren STK’larımız gelişen dış algılarının içini doldurmakta zorluk çekmekteler.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>dernek - Tag - Karahan.net</title>
+        <link>https://karahan.net/tr/tags/dernek/</link>
+        <description>dernek - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>tr</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Fri, 10 Dec 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tr/tags/dernek/" rel="self" type="application/rss+xml" /><item>
+    <title>Fransa Müslüman Tabanla Konuşuyor</title>
+    <link>https://karahan.net/tr/posts/frankreich-muslimische-basis/</link>
+    <pubDate>Fri, 10 Dec 2021 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/tr/posts/frankreich-muslimische-basis/</guid>
+    <description><![CDATA[Cumhuriyetçi Değerler Bildirgesi&quot; konusundaki anlaşmazlıklar ve CFCM&rsquo;deki casusluk iddialarının ardından Fransa İçişleri Bakanlığı, Müslüman taban ve cami cemaatleriyle doğrudan diyalog arayışına girdi.
+Bu hamle beklenmedik değildi ve bir süredir gündemdeydi. Ülkedeki dini cemaatlerle diyalogdan sorumlu olan Fransa İçişleri Bakanlığı, Müslüman derneklerin ulusal liderlerini atlayarak Müslüman taban ve cami cemaatleriyle doğrudan temas kurmaya çalışıyor. İçişleri Bakanı Darmanin 26 Kasım 2021 tarihli bir mektupta 2021 baharında düzenlenen üçüncü bölgesel konferansın (Assises territoriales de l&rsquo;islam de France - ATIF) Müslüman katılımcılarına teşekkür ederek Müslüman toplumla işbirliği konusunda yeni adımlar atılacağını duyurdu.]]></description>
+</item>
+<item>
+    <title>Camim nerede?</title>
+    <link>https://karahan.net/tr/posts/wo-ist-meine-moschee/</link>
+    <pubDate>Fri, 28 May 2021 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/tr/posts/wo-ist-meine-moschee/</guid>
+    <description><![CDATA[Avusturya&rsquo;daki İslam haritası hakkındaki eleştiri ve öfke haklı. Camilerin, ilgililerin müdahale etme imkanı olmaksızın kamuya açık bir şekilde kategorize edilmesi, kamusal bir karalama işlevini yerine getirebilir, ancak bilimsel olarak masum bir çalışma iddiasını taşımaz.
+Resmi bir fişleme kaydı niteliği, bilinçli veya bilinçsiz olarak yayılan yanlış bilgi ve yanlış sınıflandırmaların muhtemel önemsizliği, Müslüman toplum içinde gerçekten var olan sorunlu gruplara ilişkin nesnellik ve tarafsızlık taklidi ile birlikte eş zamanlı yüzeysellik, bu &ldquo;İslam haritası&quot;nda beni rahatsız eden noktalardan sadece birkaçı.]]></description>
+</item>
+<item>
+    <title>Hemşehri Dernekleri – Eskimiş folklor mu, geleceğin kültürel hizmet kurumları mı?</title>
+    <link>https://karahan.net/tr/posts/hemseri_dernekleri_folklor_kultur/</link>
+    <pubDate>Tue, 22 Aug 2017 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/tr/posts/hemseri_dernekleri_folklor_kultur/</guid>
+    <description><![CDATA[Göçmen toplumu olarak kurumsal tarihimizde hemşehri dernekleri en eski kurumlarımızın başında gelmekteler. Hemşehri dernekleri daha iç göç ile tanıştığımız dönemlerde karşımıza çıkmışlardı. Sivil Toplumu nispeten zayıf olarak değerlendirmemiz gereken dönemlerde göç eden insanlarımız için hemşehri dernekleri ilk kurumsallaşma ve dernekleşme tecrübesini oluşturmaktaydı. Avrupa’ya göçün başlamasıyla birlikte hemşehri derneklerinin bu coğrafyaya da taşınması doğal bir süreç olarak karşımıza çıkmakta.
+Özellikle Almanya’da hemşehri dernekleri daha 80lı yıllarda başka bir kurumsallaşma şeklinin gölgesinde kalmaya başladı: dini cemaatlerin.]]></description>
+</item>
+<item>
+    <title>Sivil Toplum Kurumlarımız ve Kurumsallaşmaları</title>
+    <link>https://karahan.net/tr/posts/sivil_topum_kurumlar%C4%B1m%C4%B1y_kurumsallasma/</link>
+    <pubDate>Sun, 26 Jun 2016 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/tr/posts/sivil_topum_kurumlar%C4%B1m%C4%B1y_kurumsallasma/</guid>
+    <description><![CDATA[Sivil Toplum Kurumlarımız son yıllarda bir çok alanda varlıklarını ortaya koymaya başladılar. Kamuoyunda 90lı yıllara nazaran daha görünürler, dil olarak yerel dile daha hakim duruma gelmeye başladılar. Görünürlükte kazanılan bu ivme, STK’ların bizzat kurumsallaşmasına yanısmamakta. Sonuçta halen fahri olarak yürütülmesi mümkün olmayan alanlarda dahi fahri elemanlar ile çalışmalarını sürdüren STK’larımız gelişen dış algılarının içini doldurmakta zorluk çekmekteler.
+STK’larımızın genelde ifade edildiği gibi bir algı sorunu değil, “bizi ciddiye almıyorlar”dan öte, kurumsal iddiaların ile kurumsal gerçekler ile örtüşmemesi sorununu yaşamaktalar.]]></description>
+</item>
+</channel>
 </rss>

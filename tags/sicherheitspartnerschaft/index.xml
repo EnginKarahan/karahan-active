@@ -1,22 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Sicherheitspartnerschaft on Karahan.net</title>
-    <link>https://karahan.net/tags/sicherheitspartnerschaft/</link>
-    <description>Recent content in Sicherheitspartnerschaft on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Thu, 07 Jun 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tags/sicherheitspartnerschaft/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kein sicherer Maßstab, um loyale Moslims von fanatischen zu unterscheiden?</title>
-      <link>https://karahan.net/posts/sicherer-massstab-loyaler-muslim/</link>
-      <pubDate>Thu, 07 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/posts/sicherer-massstab-loyaler-muslim/</guid>
-      <description>Bei der Lektüre von Levent Tezcans „Das muslimische Subjekt“ hat mich eine Passage ganz besonders an eine aktuelle Debatte erinnert. Erst einmal die Textpassage aus Tezcans interessantem Werk und im Anschluss einige Gedanken dazu. In einem Kapitel zitiert Tezcan zur Veranschauung immer wieder aus Papieren der Kolonialkongresse Anfang des 20. Jahrhunderts.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Sicherheitspartnerschaft - Tag - Karahan.net</title>
+        <link>https://karahan.net/tags/sicherheitspartnerschaft/</link>
+        <description>Sicherheitspartnerschaft - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Thu, 07 Jun 2012 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tags/sicherheitspartnerschaft/" rel="self" type="application/rss+xml" /><item>
+    <title>Kein sicherer Maßstab, um loyale Moslims von fanatischen zu unterscheiden?</title>
+    <link>https://karahan.net/posts/sicherer-massstab-loyaler-muslim/</link>
+    <pubDate>Thu, 07 Jun 2012 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/sicherer-massstab-loyaler-muslim/</guid>
+    <description><![CDATA[Bei der Lektüre von Levent Tezcans „Das muslimische Subjekt “ hat mich eine Passage ganz besonders an eine aktuelle Debatte erinnert. Erst einmal die Textpassage aus Tezcans interessantem Werk und im Anschluss einige Gedanken dazu. In einem Kapitel zitiert Tezcan zur Veranschauung immer wieder aus Papieren der Kolonialkongresse Anfang des 20. Jahrhunderts.
+An einer Stelle heißt es:„Das wichtigste Problem, das gegenwärtig wieder debattiert wird, besteht, wie Axenfeld schon 1910 erläutert, aber darin, dass es »keinen sicheren Maßstab [gibt], loyale Moslims von fanatischen zu unterscheiden, und kein sicheres Mittel, die ersteren loyal zu halten« Axenfeld selbst geht soweit zu sagen, dass »die illoyalen die konsequentesten Moslims« seien“.]]></description>
+</item>
+</channel>
 </rss>

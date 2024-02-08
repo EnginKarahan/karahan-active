@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>soziales Netz on Karahan.net</title>
-    <link>https://karahan.net/tags/soziales-netz/</link>
-    <description>Recent content in soziales Netz on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Mon, 12 Jan 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tags/soziales-netz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Notfallbegleitung für Muslime oder mit Muslimen?</title>
-      <link>https://karahan.net/publications/notfallbegleitung-muslime/</link>
-      <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/publications/notfallbegleitung-muslime/</guid>
-      <description>Vor der Frage, wie denn Notfallbegleitung für Muslime aussehen kann, muss erst die Frage beantwortet werden, ob denn Muslime überhaupt einer Notfallbegleitung bedürfen. Angesichts der weitestgehenden Abwesenheit dieses Begriffes im inner-muslimischen Diskurs dürfte dies eine berechtigte Frage sein: Brauchen Muslime überhaupt so etwas wie eine institutionalisierte Notfallbegleitung.
-Gesellschaften stehen im stetigen Wandel, und nicht immer geht ein bewusstes selbstverursachtes Umdenken Veränderungen voran.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>soziales Netz - Tag - Karahan.net</title>
+        <link>https://karahan.net/tags/soziales-netz/</link>
+        <description>soziales Netz - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Mon, 12 Jan 2015 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tags/soziales-netz/" rel="self" type="application/rss+xml" /><item>
+    <title>Notfallbegleitung für Muslime oder mit Muslimen?</title>
+    <link>https://karahan.net/posts/notfallbegleitung-muslime/</link>
+    <pubDate>Mon, 12 Jan 2015 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/notfallbegleitung-muslime/</guid>
+    <description><![CDATA[Vor der Frage, wie denn Notfallbegleitung für Muslime aussehen kann, muss erst die Frage beantwortet werden, ob denn Muslime überhaupt einer Notfallbegleitung bedürfen. Angesichts der weitestgehenden Abwesenheit dieses Begriffes im inner-muslimischen Diskurs dürfte dies eine berechtigte Frage sein: Brauchen Muslime überhaupt so etwas wie eine institutionalisierte Notfallbegleitung.
+Gesellschaften stehen im stetigen Wandel, und nicht immer geht ein bewusstes selbstverursachtes Umdenken Veränderungen voran. Oftmals sind es gerade Aspekte des alltäglichen Lebens, die der Mensch nicht in der eigenen Hand hat, die ihn aber, ob er nun will oder nicht, vor veränderte Tatsachen stellten.]]></description>
+</item>
+</channel>
 </rss>

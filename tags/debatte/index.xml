@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Debatte on Karahan.net</title>
-    <link>https://karahan.net/tags/debatte/</link>
-    <description>Recent content in Debatte on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Tue, 12 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tags/debatte/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Zu viel Islam? – Der Islamdiskurs als überladene Ersatzdebatte</title>
-      <link>https://karahan.net/publications/zu-viel-islam/</link>
-      <pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/publications/zu-viel-islam/</guid>
-      <description>Krippenspiel und Weihnachtsmarkt Auch wenn es in diesem Vortrag um den Islam gehen soll, will ich erst einmal mit etwas Nicht-Islamischem beginnen: einem Krippenspiel.
-Die Luthergemeinde in Worms will in der zurückliegenden Vorweihnachtszeit ein Krippenspiel auf dem Weihnachtsmarkt aufführen. An sich nichts Besonderes. Diese Aufführung unterscheidet sich jedoch etwas von den Traditionellen.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Debatte - Tag - Karahan.net</title>
+        <link>https://karahan.net/tags/debatte/</link>
+        <description>Debatte - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Tue, 12 May 2015 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tags/debatte/" rel="self" type="application/rss+xml" /><item>
+    <title>Zu viel Islam? – Der Islamdiskurs als überladene Ersatzdebatte</title>
+    <link>https://karahan.net/posts/zu-viel-islam/</link>
+    <pubDate>Tue, 12 May 2015 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/zu-viel-islam/</guid>
+    <description><![CDATA[Krippenspiel und Weihnachtsmarkt Auch wenn es in diesem Vortrag um den Islam gehen soll, will ich erst einmal mit etwas Nicht-Islamischem beginnen: einem Krippenspiel.
+Die Luthergemeinde in Worms will in der zurückliegenden Vorweihnachtszeit ein Krippenspiel auf dem Weihnachtsmarkt aufführen. An sich nichts Besonderes. Diese Aufführung unterscheidet sich jedoch etwas von den Traditionellen. Die Luthergemeinde spielt eine fiktive, an die Darstellung aus dem Matthäus-Evangelium angelehnte Geschichte. Jesus, Maria und Josef sind auf der Flucht und stoßen an der Grenze zu Ägypten auf einen Grenzbeamten.]]></description>
+</item>
+</channel>
 </rss>

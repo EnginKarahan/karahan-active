@@ -1,22 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Deutsch-Türken on Karahan.net</title>
-    <link>https://karahan.net/tags/deutsch-t%C3%BCrken/</link>
-    <description>Recent content in Deutsch-Türken on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tags/deutsch-t%C3%BCrken/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Eingesperrt in der türkischen Diaspora</title>
-      <link>https://karahan.net/posts/gurbet-tuerkische-diaspora/</link>
-      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/posts/gurbet-tuerkische-diaspora/</guid>
-      <description>Die Verwendung des Begriffs „türkische Diaspora“ im türkisch-deutschen Kontext hat nicht einmal eine lange Geschichte. Gerade sechs bis sieben Jahre sind es her, dass der Begriff im türkischsprachigen Diskurs in Deutschland vermehrt auftauchte. So propagierte der damalige Leiter der Abteilung für Verbandskommunikation und spätere Generalsekretär der IGMG, der heutige AKP-Abgeordnete Mustafa Yeneroğlu, die Verwendung dieses Begriffes – eher im verbandsinternen Alleingang – als eine selbstgewählte Selbstbeschreibung des türkischstämmigen Migranten in Deutschland und Europa.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Deutsch-Türken - Tag - Karahan.net</title>
+        <link>https://karahan.net/tags/deutsch-t%C3%BCrken/</link>
+        <description>Deutsch-Türken - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Mon, 16 Jul 2018 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tags/deutsch-t%C3%BCrken/" rel="self" type="application/rss+xml" /><item>
+    <title>Eingesperrt in der türkischen Diaspora</title>
+    <link>https://karahan.net/posts/gurbet-tuerkische-diaspora/</link>
+    <pubDate>Mon, 16 Jul 2018 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/gurbet-tuerkische-diaspora/</guid>
+    <description><![CDATA[Die Verwendung des Begriffs „türkische Diaspora“ im türkisch-deutschen Kontext hat nicht einmal eine lange Geschichte. Gerade sechs bis sieben Jahre sind es her, dass der Begriff im türkischsprachigen Diskurs in Deutschland vermehrt auftauchte. So propagierte der damalige Leiter der Abteilung für Verbandskommunikation und spätere Generalsekretär der IGMG, der heutige AKP-Abgeordnete Mustafa Yeneroğlu, die Verwendung dieses Begriffes – eher im verbandsinternen Alleingang – als eine selbstgewählte Selbstbeschreibung des türkischstämmigen Migranten in Deutschland und Europa.]]></description>
+</item>
+</channel>
 </rss>

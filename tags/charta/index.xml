@@ -1,32 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Charta on Karahan.net</title>
-    <link>https://karahan.net/tags/charta/</link>
-    <description>Recent content in Charta on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tags/charta/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Frankreich spricht mit der muslimischen Basis</title>
-      <link>https://karahan.net/posts/frankreich-muslimische-basis/</link>
-      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/posts/frankreich-muslimische-basis/</guid>
-      <description>Nach Konflikten um die “Charta der republikanischen Werte” und Spionagevorwürfen im CFCM sucht das französische Innenministerium den direkten Dialog mit der muslimischen Basis und den Moscheegemeinden.
-Der Schritt kam nicht unerwartet und zeichnete sich schon länger ab. Das französische Innenministerium, verantwortlich für den Dialog mit den Religionsgemeinschaften im Land, umgeht die nationalen Verbandsspitzen der muslimischen Verbandslandschaft und sucht den direkten Kontakt zur muslimischen Basis und den Moscheegemeinden.</description>
-    </item>
-    
-    <item>
-      <title>Französische Revolution in der IGMG - eine IGMG, viele Gesichter?</title>
-      <link>https://karahan.net/posts/franzoesische-revolution-igmg/</link>
-      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/posts/franzoesische-revolution-igmg/</guid>
-      <description>Der Diskurs über Islam und Muslime in Deutschland und anderen europäischen Staaten nimmt in diesen bewegten Zeiten nicht an Intensität ab. Die Zahl der Beiträge wird zwar mehr, nicht jedoch unbedingt die Zahl der Wortmeldungen auf Seiten der muslimischen Gemeinschaften. Für Öffentlichkeit und Medien ist es aktuell eher schwierig, überhaupt an O-Töne von Vertretern der muslimischen Gemeinschaften zu kommen.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Charta - Tag - Karahan.net</title>
+        <link>https://karahan.net/tags/charta/</link>
+        <description>Charta - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Fri, 10 Dec 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tags/charta/" rel="self" type="application/rss+xml" /><item>
+    <title>Frankreich spricht mit der muslimischen Basis</title>
+    <link>https://karahan.net/posts/frankreich-muslimische-basis/</link>
+    <pubDate>Fri, 10 Dec 2021 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/frankreich-muslimische-basis/</guid>
+    <description><![CDATA[Nach Konflikten um die “Charta der republikanischen Werte” und Spionagevorwürfen im CFCM sucht das französische Innenministerium den direkten Dialog mit der muslimischen Basis und den Moscheegemeinden.
+Der Schritt kam nicht unerwartet und zeichnete sich schon länger ab. Das französische Innenministerium, verantwortlich für den Dialog mit den Religionsgemeinschaften im Land, umgeht die nationalen Verbandsspitzen der muslimischen Verbandslandschaft und sucht den direkten Kontakt zur muslimischen Basis und den Moscheegemeinden. In einem Brief vom 26.]]></description>
+</item>
+<item>
+    <title>Französische Revolution in der IGMG - eine IGMG, viele Gesichter?</title>
+    <link>https://karahan.net/posts/franzoesische-revolution-igmg/</link>
+    <pubDate>Sat, 21 Nov 2020 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/franzoesische-revolution-igmg/</guid>
+    <description><![CDATA[Der Diskurs über Islam und Muslime in Deutschland und anderen europäischen Staaten nimmt in diesen bewegten Zeiten nicht an Intensität ab. Die Zahl der Beiträge wird zwar mehr, nicht jedoch unbedingt die Zahl der Wortmeldungen auf Seiten der muslimischen Gemeinschaften. Für Öffentlichkeit und Medien ist es aktuell eher schwierig, überhaupt an O-Töne von Vertretern der muslimischen Gemeinschaften zu kommen. Dies zeigte sich auch in einem Pressegespräch des &ldquo;Mediendienst Integration &rdquo; am 17.]]></description>
+</item>
+</channel>
 </rss>

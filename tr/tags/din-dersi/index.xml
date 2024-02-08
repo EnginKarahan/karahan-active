@@ -1,22 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Din Dersi on Karahan.net</title>
-    <link>https://karahan.net/tr/tags/din-dersi/</link>
-    <description>Recent content in Din Dersi on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>tr</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tr/tags/din-dersi/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>KRM genişlemesi – atılım mı çaresizlik mi?</title>
-      <link>https://karahan.net/tr/posts/krm_erweiterung_befreiungsschlag_verzweiflungstat/</link>
-      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/tr/posts/krm_erweiterung_befreiungsschlag_verzweiflungstat/</guid>
-      <description>Almanya Müslümanları Koordinasyon Kurulu (KRM) Salı günü yayınladığı bir Basın açıklamasıyla genişleyeceğini duyurdu. Mevcut dört üyesinin yanı sıra (DİTİB, İslam Konseyi, İslam Kültür Merkezleri Birliği, Almanya Müslümanları Merkez Konseyi) Fas, Bosna ve Arnavutluk kökenli cemaatler de Kurul’a katılacakmış. Bu gelişmeyle KRM kuruluşundan beri geçen 12 yıldan sonra ilk defa kurumsal olarak bir gelişme ortaya koymuş olacak.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Din Dersi - Tag - Karahan.net</title>
+        <link>https://karahan.net/tr/tags/din-dersi/</link>
+        <description>Din Dersi - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>tr</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Tue, 11 Jun 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tr/tags/din-dersi/" rel="self" type="application/rss+xml" /><item>
+    <title>KRM genişlemesi – atılım mı çaresizlik mi?</title>
+    <link>https://karahan.net/tr/posts/krm_erweiterung_befreiungsschlag_verzweiflungstat/</link>
+    <pubDate>Tue, 11 Jun 2019 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/tr/posts/krm_erweiterung_befreiungsschlag_verzweiflungstat/</guid>
+    <description><![CDATA[Almanya Müslümanları Koordinasyon Kurulu (KRM) Salı günü yayınladığı bir Basın açıklamasıyla genişleyeceğini duyurdu. Mevcut dört üyesinin yanı sıra (DİTİB, İslam Konseyi, İslam Kültür Merkezleri Birliği, Almanya Müslümanları Merkez Konseyi) Fas, Bosna ve Arnavutluk kökenli cemaatler de Kurul’a katılacakmış. Bu gelişmeyle KRM kuruluşundan beri geçen 12 yıldan sonra ilk defa kurumsal olarak bir gelişme ortaya koymuş olacak. Son yıllarda KRM çevresinde hakim olan sessizlikten sonra, böyle bir adım kurul için ciddi bir atılım anlamına gelebilirken, yayınlanan açıklama atılımdan çok çaresizlik emareleri ortaya koymakta.]]></description>
+</item>
+</channel>
 </rss>

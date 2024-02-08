@@ -1,33 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kultur on Karahan.net</title>
-    <link>https://karahan.net/tags/kultur/</link>
-    <description>Recent content in Kultur on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tags/kultur/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Episode 2 - Wir ersticken an Identitäten</title>
-      <link>https://karahan.net/posts/dn-episode02-wir-ersticken-an-identitaeten/</link>
-      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/posts/dn-episode02-wir-ersticken-an-identitaeten/</guid>
-      <description>Wer sind &amp;ldquo;Wir&amp;rdquo;? Was bedeutet es, Deutscher oder Türke usw. zu sein? Was bedeutet &amp;ldquo;nationale Identität&amp;rdquo; und kann es eine &amp;ldquo;deutsche Normalität&amp;rdquo; geben? Kann man sich nur glücklich schätzen, wenn man Deutscher, Türke oder Araber ist? Diesmal diskutieren die Dauernörgler über Identitäten, Nationen und eine Kultur der Erinnerung.
-Über den Dauernörgler-Podcast Im Dauernörgler-Podcast finden Sie Gespräche über das Zeitgeschehen aus muslimischer Perspektive.</description>
-    </item>
-    
-    <item>
-      <title>Zu viel Islam? – Der Islamdiskurs als überladene Ersatzdebatte</title>
-      <link>https://karahan.net/publications/zu-viel-islam/</link>
-      <pubDate>Tue, 12 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/publications/zu-viel-islam/</guid>
-      <description>Krippenspiel und Weihnachtsmarkt Auch wenn es in diesem Vortrag um den Islam gehen soll, will ich erst einmal mit etwas Nicht-Islamischem beginnen: einem Krippenspiel.
-Die Luthergemeinde in Worms will in der zurückliegenden Vorweihnachtszeit ein Krippenspiel auf dem Weihnachtsmarkt aufführen. An sich nichts Besonderes. Diese Aufführung unterscheidet sich jedoch etwas von den Traditionellen.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Kultur - Tag - Karahan.net</title>
+        <link>https://karahan.net/tags/kultur/</link>
+        <description>Kultur - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Fri, 01 Nov 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tags/kultur/" rel="self" type="application/rss+xml" /><item>
+    <title>Episode 2 - Wir ersticken an Identitäten</title>
+    <link>https://karahan.net/posts/dn-episode02-wir-ersticken-an-identitaeten/</link>
+    <pubDate>Fri, 01 Nov 2019 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/dn-episode02-wir-ersticken-an-identitaeten/</guid>
+    <description><![CDATA[Wer sind &ldquo;Wir&rdquo;? Was bedeutet es, Deutscher oder Türke usw. zu sein? Was bedeutet &ldquo;nationale Identität&rdquo; und kann es eine &ldquo;deutsche Normalität&rdquo; geben? Kann man sich nur glücklich schätzen, wenn man Deutscher, Türke oder Araber ist? Diesmal diskutieren die Dauernörgler über Identitäten, Nationen und eine Kultur der Erinnerung.
+Über den Dauernörgler-Podcast Im Dauernörgler-Podcast finden Sie Gespräche über das Zeitgeschehen aus muslimischer Perspektive. Der Schwerpunkt des Podcasts liegt in der kritischen Diskussion aktueller gesellschaftlicher Diskurse aus einer deutsch-muslimischen Perspektive.]]></description>
+</item>
+<item>
+    <title>Zu viel Islam? – Der Islamdiskurs als überladene Ersatzdebatte</title>
+    <link>https://karahan.net/posts/zu-viel-islam/</link>
+    <pubDate>Tue, 12 May 2015 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/zu-viel-islam/</guid>
+    <description><![CDATA[Krippenspiel und Weihnachtsmarkt Auch wenn es in diesem Vortrag um den Islam gehen soll, will ich erst einmal mit etwas Nicht-Islamischem beginnen: einem Krippenspiel.
+Die Luthergemeinde in Worms will in der zurückliegenden Vorweihnachtszeit ein Krippenspiel auf dem Weihnachtsmarkt aufführen. An sich nichts Besonderes. Diese Aufführung unterscheidet sich jedoch etwas von den Traditionellen. Die Luthergemeinde spielt eine fiktive, an die Darstellung aus dem Matthäus-Evangelium angelehnte Geschichte. Jesus, Maria und Josef sind auf der Flucht und stoßen an der Grenze zu Ägypten auf einen Grenzbeamten.]]></description>
+</item>
+</channel>
 </rss>

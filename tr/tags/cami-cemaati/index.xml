@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>cami cemaati on Karahan.net</title>
-    <link>https://karahan.net/tr/tags/cami-cemaati/</link>
-    <description>Recent content in cami cemaati on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>tr</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tr/tags/cami-cemaati/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fransa Müslüman Tabanla Konuşuyor</title>
-      <link>https://karahan.net/tr/posts/frankreich-muslimische-basis/</link>
-      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/tr/posts/frankreich-muslimische-basis/</guid>
-      <description>Cumhuriyetçi Değerler Bildirgesi&amp;quot; konusundaki anlaşmazlıklar ve CFCM&amp;rsquo;deki casusluk iddialarının ardından Fransa İçişleri Bakanlığı, Müslüman taban ve cami cemaatleriyle doğrudan diyalog arayışına girdi.
-Bu hamle beklenmedik değildi ve bir süredir gündemdeydi. Ülkedeki dini cemaatlerle diyalogdan sorumlu olan Fransa İçişleri Bakanlığı, Müslüman derneklerin ulusal liderlerini atlayarak Müslüman taban ve cami cemaatleriyle doğrudan temas kurmaya çalışıyor.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>cami cemaati - Tag - Karahan.net</title>
+        <link>https://karahan.net/tr/tags/cami-cemaati/</link>
+        <description>cami cemaati - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>tr</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Fri, 10 Dec 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tr/tags/cami-cemaati/" rel="self" type="application/rss+xml" /><item>
+    <title>Fransa Müslüman Tabanla Konuşuyor</title>
+    <link>https://karahan.net/tr/posts/frankreich-muslimische-basis/</link>
+    <pubDate>Fri, 10 Dec 2021 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/tr/posts/frankreich-muslimische-basis/</guid>
+    <description><![CDATA[Cumhuriyetçi Değerler Bildirgesi&quot; konusundaki anlaşmazlıklar ve CFCM&rsquo;deki casusluk iddialarının ardından Fransa İçişleri Bakanlığı, Müslüman taban ve cami cemaatleriyle doğrudan diyalog arayışına girdi.
+Bu hamle beklenmedik değildi ve bir süredir gündemdeydi. Ülkedeki dini cemaatlerle diyalogdan sorumlu olan Fransa İçişleri Bakanlığı, Müslüman derneklerin ulusal liderlerini atlayarak Müslüman taban ve cami cemaatleriyle doğrudan temas kurmaya çalışıyor. İçişleri Bakanı Darmanin 26 Kasım 2021 tarihli bir mektupta 2021 baharında düzenlenen üçüncü bölgesel konferansın (Assises territoriales de l&rsquo;islam de France - ATIF) Müslüman katılımcılarına teşekkür ederek Müslüman toplumla işbirliği konusunda yeni adımlar atılacağını duyurdu.]]></description>
+</item>
+</channel>
 </rss>

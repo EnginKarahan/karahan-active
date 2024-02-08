@@ -1,22 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Militär on Karahan.net</title>
-    <link>https://karahan.net/tags/milit%C3%A4r/</link>
-    <description>Recent content in Militär on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tags/milit%C3%A4r/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Waffen gestalten nicht, sie schaffen Fakten, Tote, Verletzte und perpetuiertes Leid</title>
-      <link>https://karahan.net/posts/waffen-gestalten-nicht/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/posts/waffen-gestalten-nicht/</guid>
-      <description>Kann es nur exakt zwei Haltungen zu Afrin geben, die eine türkisch, die andere kurdisch, und jeder hat sich auf eine Seite zu schlagen? Der gesunde Menschenverstand würde wohl in jedem anderen Fall sagen: Quatsch, es gibt kein schwarz und weiß. Hier scheint das unmöglich zu sein. Gerade in der türkischstämmigen Community scheinen wir mittlerweile epistemisch in dermaßen unterschiedlichen Welten zu leben, dass die Grundlage für ein Verstehen immer mehr abhanden kommt.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Militär - Tag - Karahan.net</title>
+        <link>https://karahan.net/tags/milit%C3%A4r/</link>
+        <description>Militär - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Thu, 01 Feb 2018 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tags/milit%C3%A4r/" rel="self" type="application/rss+xml" /><item>
+    <title>Waffen gestalten nicht, sie schaffen Fakten, Tote, Verletzte und perpetuiertes Leid</title>
+    <link>https://karahan.net/posts/waffen-gestalten-nicht/</link>
+    <pubDate>Thu, 01 Feb 2018 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/waffen-gestalten-nicht/</guid>
+    <description><![CDATA[Kann es nur exakt zwei Haltungen zu Afrin geben, die eine türkisch, die andere kurdisch, und jeder hat sich auf eine Seite zu schlagen? Der gesunde Menschenverstand würde wohl in jedem anderen Fall sagen: Quatsch, es gibt kein schwarz und weiß. Hier scheint das unmöglich zu sein. Gerade in der türkischstämmigen Community scheinen wir mittlerweile epistemisch in dermaßen unterschiedlichen Welten zu leben, dass die Grundlage für ein Verstehen immer mehr abhanden kommt.]]></description>
+</item>
+</channel>
 </rss>

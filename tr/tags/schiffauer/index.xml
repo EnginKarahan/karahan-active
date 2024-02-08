@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Schiffauer on Karahan.net</title>
-    <link>https://karahan.net/tr/tags/schiffauer/</link>
-    <description>Recent content in Schiffauer on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>tr</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tr/tags/schiffauer/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gurbeti Vatan Edinebilmek?</title>
-      <link>https://karahan.net/tr/posts/heimat-finden-im-fremden/</link>
-      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/tr/posts/heimat-finden-im-fremden/</guid>
-      <description>İslam Toplumu Milli Görüş (IGMG) içindeki yerleşiklik ve yabancı kalma arasındaki mücadele
-&amp;ldquo;İslamcılık&amp;rsquo;tan Sonra&amp;rdquo; Durum Değerlendirmesi Müslüman cemaatlerin iç yaşamı, Almanya&amp;rsquo;daki Müslüman yaşamının az araştırılmış alanlarından biridir. Bunun pek çok nedeni vardır. Bir yandan, cemaatlerdeki pek de göze çarpmayan gündelik hayata yönelik bir ilgi eksikliği söz konusuyken, diğer yandan araştırmacılar için cemaatlerin iç dünyasına erişim pek de mümkün değil.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Schiffauer - Tag - Karahan.net</title>
+        <link>https://karahan.net/tr/tags/schiffauer/</link>
+        <description>Schiffauer - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>tr</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Fri, 04 Nov 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tr/tags/schiffauer/" rel="self" type="application/rss+xml" /><item>
+    <title>Gurbeti Vatan Edinebilmek?</title>
+    <link>https://karahan.net/tr/posts/heimat-finden-im-fremden/</link>
+    <pubDate>Fri, 04 Nov 2022 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/tr/posts/heimat-finden-im-fremden/</guid>
+    <description><![CDATA[İslam Toplumu Milli Görüş (IGMG) içindeki yerleşiklik ve yabancı kalma arasındaki mücadele
+&ldquo;İslamcılık&rsquo;tan Sonra&rdquo; Durum Değerlendirmesi Müslüman cemaatlerin iç yaşamı, Almanya&rsquo;daki Müslüman yaşamının az araştırılmış alanlarından biridir. Bunun pek çok nedeni vardır. Bir yandan, cemaatlerdeki pek de göze çarpmayan gündelik hayata yönelik bir ilgi eksikliği söz konusuyken, diğer yandan araştırmacılar için cemaatlerin iç dünyasına erişim pek de mümkün değil. Buna ek olarak, cemaatlerin kendileri de iç yaşamlarına dair kamuoyuna yalnızca bölük pörçük bilgiler sunmaktadır.]]></description>
+</item>
+</channel>
 </rss>

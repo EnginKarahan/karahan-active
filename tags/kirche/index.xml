@@ -1,32 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kirche on Karahan.net</title>
-    <link>https://karahan.net/tags/kirche/</link>
-    <description>Recent content in Kirche on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tags/kirche/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hagia Sophia – die “kostspielige Rechnung”</title>
-      <link>https://karahan.net/posts/hagia-sophia-rechnung/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/posts/hagia-sophia-rechnung/</guid>
-      <description>Noch vor einem Jahr bezeichnete der türkische Präsident Recep Tayyip Erdoğan die Forderung nach der Umwandlung der Hagia Sophia als eine Rechnung, “dessen Kosten für uns zu hoch” wären. Mittlerweile müssen sich die Rechnungspositionen dermaßen verschoben haben, dass selbst ein solch “kostspieliger” Schritt für das politische Weiterbestehen notwendig erscheint.
-Gebaut wurde die Hagia Sophia im 6.</description>
-    </item>
-    
-    <item>
-      <title>Wozu Dialog, wenn nur eine Seite spricht, die andere aber nicht zuhört – Muslime sind von christlichen Kirchen enttäuscht</title>
-      <link>https://karahan.net/posts/wozu-dialog/</link>
-      <pubDate>Sun, 14 Dec 2003 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/posts/wozu-dialog/</guid>
-      <description>Die christlichen Kirchen in Frankreich sprachen sich diese Woche gegen ein Kopftuch-Verbot aus. Auch hatten sich davor schon die jüdischen Gemeinden gegen ein Verbot gestellt. Eine Unterstützung solcher Art, konnten die Muslime in Deutschland von den hiesigen christlichen und jüdischen Vertretern nicht erfahren. Oder wie sollten Muslime Äußerungen des EKD-Ratspräsidenten Huber deuten, der an der Eignung von Frauen für den öffentlichen Dienst oder den Lehrberuf zweifelt, nur weil diese ein Kopftuch tragen.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Kirche - Tag - Karahan.net</title>
+        <link>https://karahan.net/tags/kirche/</link>
+        <description>Kirche - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Wed, 15 Jul 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tags/kirche/" rel="self" type="application/rss+xml" /><item>
+    <title>Hagia Sophia – die “kostspielige Rechnung”</title>
+    <link>https://karahan.net/posts/hagia-sophia-rechnung/</link>
+    <pubDate>Wed, 15 Jul 2020 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/hagia-sophia-rechnung/</guid>
+    <description><![CDATA[Noch vor einem Jahr bezeichnete der türkische Präsident Recep Tayyip Erdoğan die Forderung nach der Umwandlung der Hagia Sophia als eine Rechnung, “dessen Kosten für uns zu hoch” wären. Mittlerweile müssen sich die Rechnungspositionen dermaßen verschoben haben, dass selbst ein solch “kostspieliger” Schritt für das politische Weiterbestehen notwendig erscheint.
+Gebaut wurde die Hagia Sophia im 6. Jahrhundert nach Christus. Zur Moschee wurde sie mit der Eroberung Istanbuls durch die Osmanen 1453, mit einem Kabinettsbeschluss 1934 der jungen türkischen Republik wurde sie, auch mit der Unterschrift des Rebuplikgründers Mustafa Kemal Atatürk, zu einem Museum.]]></description>
+</item>
+<item>
+    <title>Wozu Dialog, wenn nur eine Seite spricht, die andere aber nicht zuhört – Muslime sind von christlichen Kirchen enttäuscht</title>
+    <link>https://karahan.net/posts/wozu-dialog/</link>
+    <pubDate>Sun, 14 Dec 2003 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/wozu-dialog/</guid>
+    <description><![CDATA[Die christlichen Kirchen in Frankreich sprachen sich diese Woche gegen ein Kopftuch-Verbot aus. Auch hatten sich davor schon die jüdischen Gemeinden gegen ein Verbot gestellt. Eine Unterstützung solcher Art, konnten die Muslime in Deutschland von den hiesigen christlichen und jüdischen Vertretern nicht erfahren. Oder wie sollten Muslime Äußerungen des EKD-Ratspräsidenten Huber deuten, der an der Eignung von Frauen für den öffentlichen Dienst oder den Lehrberuf zweifelt, nur weil diese ein Kopftuch tragen.]]></description>
+</item>
+</channel>
 </rss>

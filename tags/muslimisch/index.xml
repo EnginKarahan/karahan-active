@@ -1,23 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>muslimisch on Karahan.net</title>
-    <link>https://karahan.net/tags/muslimisch/</link>
-    <description>Recent content in muslimisch on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Sat, 26 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tags/muslimisch/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Episode 1 - Muslimische Organisationen in Deutschland</title>
-      <link>https://karahan.net/posts/dn-episode-01-muslimische-organisationen/</link>
-      <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/posts/dn-episode-01-muslimische-organisationen/</guid>
-      <description>Zwischen Selbstwahrnehmung und Wirklichkeit Innenansichten – darum geht es den Dauernörglern. In dieser Auftaktfolge ermöglichen die Dauernörgler einen Einblick in die ambivalente Selbstwahrnehmung innerhalb der muslimischen Organisationen und ihre Wirkung im gesellschaftlichen Diskurs. Die Dauernörgler ermöglichen neue Ansichten und neue Perspektiven auf den organisierten Islam in Deutschland.
-Über den Dauernörgler-Podcast Im Dauernörgler-Podcast finden Sie Gespräche über das Zeitgeschehen aus muslimischer Perspektive.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>muslimisch - Tag - Karahan.net</title>
+        <link>https://karahan.net/tags/muslimisch/</link>
+        <description>muslimisch - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Sat, 26 Oct 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tags/muslimisch/" rel="self" type="application/rss+xml" /><item>
+    <title>Episode 1 - Muslimische Organisationen in Deutschland</title>
+    <link>https://karahan.net/posts/dn-episode-01-muslimische-organisationen/</link>
+    <pubDate>Sat, 26 Oct 2019 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/dn-episode-01-muslimische-organisationen/</guid>
+    <description><![CDATA[Zwischen Selbstwahrnehmung und Wirklichkeit Innenansichten – darum geht es den Dauernörglern. In dieser Auftaktfolge ermöglichen die Dauernörgler einen Einblick in die ambivalente Selbstwahrnehmung innerhalb der muslimischen Organisationen und ihre Wirkung im gesellschaftlichen Diskurs. Die Dauernörgler ermöglichen neue Ansichten und neue Perspektiven auf den organisierten Islam in Deutschland.
+Über den Dauernörgler-Podcast Im Dauernörgler-Podcast finden Sie Gespräche über das Zeitgeschehen aus muslimischer Perspektive. Der Schwerpunkt des Podcasts liegt in der kritischen Diskussion aktueller gesellschaftlicher Diskurse aus einer deutsch-muslimischen Perspektive.]]></description>
+</item>
+</channel>
 </rss>

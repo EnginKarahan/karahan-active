@@ -1,22 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Repräsentanz on Karahan.net</title>
-    <link>https://karahan.net/tags/repr%C3%A4sentanz/</link>
-    <description>Recent content in Repräsentanz on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tags/repr%C3%A4sentanz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Repräsentanz und Inhalte in der muslimischen Verbandslandschaft</title>
-      <link>https://karahan.net/posts/repraesentanz-verbandslandschaft/</link>
-      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/posts/repraesentanz-verbandslandschaft/</guid>
-      <description>Ein grundsätzliches Problem der muslimischen Community ist, dass Repräsentanz nicht immer mit Inhalten ausgefüllt wird. Kooperationspartner und behördliche Gesprächspartner klagen dann immer wieder, dass man mit muslimischen Vertretern zusammenkommen und sich gut unterhalten kann, aber inhaltlich kaum ein Input kommt. Auch als Community bekommen wir aber immer seltener mit, ob und welche Positionen es von Verbandsseite zu Themen gibt, die uns alle betreffen.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Repräsentanz - Tag - Karahan.net</title>
+        <link>https://karahan.net/tags/repr%C3%A4sentanz/</link>
+        <description>Repräsentanz - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Thu, 31 Jan 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tags/repr%C3%A4sentanz/" rel="self" type="application/rss+xml" /><item>
+    <title>Repräsentanz und Inhalte in der muslimischen Verbandslandschaft</title>
+    <link>https://karahan.net/posts/repraesentanz-verbandslandschaft/</link>
+    <pubDate>Thu, 31 Jan 2019 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/repraesentanz-verbandslandschaft/</guid>
+    <description><![CDATA[Ein grundsätzliches Problem der muslimischen Community ist, dass Repräsentanz nicht immer mit Inhalten ausgefüllt wird. Kooperationspartner und behördliche Gesprächspartner klagen dann immer wieder, dass man mit muslimischen Vertretern zusammenkommen und sich gut unterhalten kann, aber inhaltlich kaum ein Input kommt. Auch als Community bekommen wir aber immer seltener mit, ob und welche Positionen es von Verbandsseite zu Themen gibt, die uns alle betreffen.
+Mittlerweile verschiebt sich die Klage über die muslimische Repräsentanz jedoch immer mehr in eine Richtung, bei der nicht die fehlenden Inhalte beklagt werden, sondern bereits die fehlende Präsenz.]]></description>
+</item>
+</channel>
 </rss>

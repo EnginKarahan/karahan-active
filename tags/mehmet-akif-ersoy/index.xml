@@ -1,22 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mehmet Akif Ersoy on Karahan.net</title>
-    <link>https://karahan.net/tags/mehmet-akif-ersoy/</link>
-    <description>Recent content in Mehmet Akif Ersoy on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tags/mehmet-akif-ersoy/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Çağrıcı „Necip Fazıl – ein Mensch der Ideologie“</title>
-      <link>https://karahan.net/posts/cagrici-necip-fazil-kisakurek/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/posts/cagrici-necip-fazil-kisakurek/</guid>
-      <description>Necip Fazıl Kısakürek (geb. 1904) ist in der Türkei nicht erst mit der AKP-Regierungszeit zu Ruhm gekommen, zumal er bereits 1983 verstarb. Aber wohl kaum in einer anderen Phase des Landes war NFK, wie Necip Fazıl Kısakürek gerne abgekürzt wird, mit seinem Werk so wirkmächtig, wie in den letzten fast 20 Jahren.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Mehmet Akif Ersoy - Tag - Karahan.net</title>
+        <link>https://karahan.net/tags/mehmet-akif-ersoy/</link>
+        <description>Mehmet Akif Ersoy - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Wed, 26 Feb 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tags/mehmet-akif-ersoy/" rel="self" type="application/rss+xml" /><item>
+    <title>Çağrıcı „Necip Fazıl – ein Mensch der Ideologie“</title>
+    <link>https://karahan.net/posts/cagrici-necip-fazil-kisakurek/</link>
+    <pubDate>Wed, 26 Feb 2020 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/cagrici-necip-fazil-kisakurek/</guid>
+    <description><![CDATA[Necip Fazıl Kısakürek (geb. 1904) ist in der Türkei nicht erst mit der AKP-Regierungszeit zu Ruhm gekommen, zumal er bereits 1983 verstarb. Aber wohl kaum in einer anderen Phase des Landes war NFK, wie Necip Fazıl Kısakürek gerne abgekürzt wird, mit seinem Werk so wirkmächtig, wie in den letzten fast 20 Jahren. Seine Rezeption ist in konservativen Kreisen weit verbreitet, selbst der Präsident hat in seinen Reden immer wieder einen passenden Vers parat.]]></description>
+</item>
+</channel>
 </rss>

@@ -1,32 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AmR on Karahan.net</title>
-    <link>https://karahan.net/tr/tags/amr/</link>
-    <description>Recent content in AmR on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>tr</language>
-    <copyright>&amp;copy; 2022 &lt;a href=&#34;https://karahan.net&#34;&gt;Engin Karahan&lt;/a&gt; 
-</copyright>
-    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/tr/tags/amr/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Camiye Saldırı Durumunda Ne Yapmalı?</title>
-      <link>https://karahan.net/tr/posts/angriff-auf-moscheen/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/tr/posts/angriff-auf-moscheen/</guid>
-      <description>Son haftalarda camilere yapılan saldırılar, saldırıya uğrayan camilerin Türk mü yoksa Alman kurumları mı olduğu, medya ve siyasetin bunda nasıl bir rol oynadığı vb. konularda farklı tartışmalara neden oldu. Bir soru cevapsız kaldı: Etkilenen cami cemaatleri ne yapabilir ve genel olarak cemaatler böyle bir olaya nasıl hazırlanabilir? Böyle bir olayla başa çıkmak için somut adımların fiili bir saldırıdan çok önce atılması gerekir.</description>
-    </item>
-    
-    <item>
-      <title>Ayrımcılık karşıtı çalışmaların toplumun merkezine ihtiyacı var</title>
-      <link>https://karahan.net/tr/posts/antidiskriminierungsarbeit-gesellschaftliche-mitte/</link>
-      <pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://karahan.net/tr/posts/antidiskriminierungsarbeit-gesellschaftliche-mitte/</guid>
-      <description>**Federal Ayrımcılıkla Mücadele Kurumu&amp;rsquo;nun raporunu duydunuz mu? Bu kurumun adını hiç duydunuz mu? Hayır, o zaman muhtemelen Alman nüfusunun çoğunluğu gibisiniz.
-Hem ayrımcılıkla mücadele çalışmaları hem de [Federal Ayrımcılıkla Mücadele Kurumu] (http://www.antidiskriminierungsstelle.de/ &amp;ldquo;Çalışma&amp;rdquo;) (ADS) çoğu Alman için anlamsız terimlerdir. Bu ifade, ADS tarafından yaptırılan &amp;ldquo;Günlük Yaşamda Ayrımcılık&amp;rdquo; adlı araştırma projesinin sonuçlarının bir parçasıdır.</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>AmR - Tag - Karahan.net</title>
+        <link>https://karahan.net/tr/tags/amr/</link>
+        <description>AmR - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>tr</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Sat, 01 Aug 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tr/tags/amr/" rel="self" type="application/rss+xml" /><item>
+    <title>Camiye Saldırı Durumunda Ne Yapmalı?</title>
+    <link>https://karahan.net/tr/posts/angriff-auf-moscheen/</link>
+    <pubDate>Sat, 01 Aug 2020 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/tr/posts/angriff-auf-moscheen/</guid>
+    <description><![CDATA[Son haftalarda camilere yapılan saldırılar, saldırıya uğrayan camilerin Türk mü yoksa Alman kurumları mı olduğu, medya ve siyasetin bunda nasıl bir rol oynadığı vb. konularda farklı tartışmalara neden oldu. Bir soru cevapsız kaldı: Etkilenen cami cemaatleri ne yapabilir ve genel olarak cemaatler böyle bir olaya nasıl hazırlanabilir? Böyle bir olayla başa çıkmak için somut adımların fiili bir saldırıdan çok önce atılması gerekir.
+Son yıllarda cami cemaatlerine yönelik çeşitli biçimlerdeki saldırıların sayısı artmış olsa da, konu Müslüman cemaatlerin kurumsal çalışmalarında yeterince yer bulmamıştır.]]></description>
+</item>
+<item>
+    <title>Ayrımcılık karşıtı çalışmaların toplumun merkezine ihtiyacı var</title>
+    <link>https://karahan.net/tr/posts/antidiskriminierungsarbeit-gesellschaftliche-mitte/</link>
+    <pubDate>Fri, 19 Feb 2010 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/tr/posts/antidiskriminierungsarbeit-gesellschaftliche-mitte/</guid>
+    <description><![CDATA[**Federal Ayrımcılıkla Mücadele Kurumu&rsquo;nun raporunu duydunuz mu? Bu kurumun adını hiç duydunuz mu? Hayır, o zaman muhtemelen Alman nüfusunun çoğunluğu gibisiniz.
+Hem ayrımcılıkla mücadele çalışmaları hem de [Federal Ayrımcılıkla Mücadele Kurumu] (http://www.antidiskriminierungsstelle.de/ &ldquo;Çalışma&rdquo;) (ADS) çoğu Alman için anlamsız terimlerdir. Bu ifade, ADS tarafından yaptırılan &ldquo;Günlük Yaşamda Ayrımcılık &rdquo; adlı araştırma projesinin sonuçlarının bir parçasıdır. Buna göre, ankete katılanların sadece %23&rsquo;ü ADS&rsquo;yi duymuş ve sadece %34&rsquo;ü Genel Eşit Muamele Yasası (AGG) hakkında bir fikre sahip.]]></description>
+</item>
+</channel>
 </rss>
