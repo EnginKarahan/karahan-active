@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>ssg - Tag - Karahan.net</title>
+        <link>https://karahan.net/tags/ssg/</link>
+        <description>ssg - Tag - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Mon, 30 May 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/tags/ssg/" rel="self" type="application/rss+xml" /><item>
+    <title>Relaunch - Karahan.net komplett überarbeitet</title>
+    <link>https://karahan.net/posts/relaunch-karahan_net/</link>
+    <pubDate>Mon, 30 May 2022 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/posts/relaunch-karahan_net/</guid>
+    <description><![CDATA[Seit 2007 und damit 15 Jahren läuft karahan.net auf dem CMS-System Wordpress . Wordpress war zu Beginn ein recht einfaches, leicht zu handhabbares Blog-System, das sich mittlerweile zu einem mächtigen Allrounder im Bereich der Web-Content-Präsentation gemausert hat. Die stetigen Funktionserweiterungen führten jedoch auch zu einer Überfrachtung, die für mich jedoch der Grund waren, nach einer Alternative für den technischen Unterbau meiner Webseite zu suchen. Zu umfangreich wurde die Software, zu häufig die Notwendigkeit regelmäßiger Upgrades und Bugfixes.]]></description>
+</item>
+</channel>
+</rss>
