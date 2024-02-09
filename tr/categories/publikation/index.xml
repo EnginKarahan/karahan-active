@@ -1,8 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Yayınlar - Kategori - Karahan.net</title>
-        <link>https://karahan.net/tr/categories/publikation/</link>
-        <description>Yayınlar - Kategori - Karahan.net</description>
-        <generator>Hugo -- gohugo.io</generator><language>tr</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
-            <webMaster>info@karahan.net (Engin Karahan)</webMaster><atom:link href="https://karahan.net/tr/categories/publikation/" rel="self" type="application/rss+xml" /></channel>
-</rss>

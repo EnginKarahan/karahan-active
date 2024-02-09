@@ -1,8 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Themen - Kategorie - Karahan.net</title>
-        <link>https://karahan.net/categories/themen/</link>
-        <description>Themen - Kategorie - Karahan.net</description>
-        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
-            <webMaster>info@karahan.net (Engin Karahan)</webMaster><atom:link href="https://karahan.net/categories/themen/" rel="self" type="application/rss+xml" /></channel>
-</rss>
