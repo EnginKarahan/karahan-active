@@ -1,31 +1,88 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Karahan.net</title>
-    <link>https://karahan.net/categories/</link>
-    <description>Recent content in Categories on Karahan.net</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
-    <webMaster>info@karahan.net (Engin Karahan)</webMaster>
-    <lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://karahan.net/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Publikationen</title>
-      <link>https://karahan.net/categories/publikation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@karahan.net (Engin Karahan)</author>
-      <guid>https://karahan.net/categories/publikation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themen</title>
-      <link>https://karahan.net/categories/themen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>info@karahan.net (Engin Karahan)</author>
-      <guid>https://karahan.net/categories/themen/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Kategorie - Karahan.net</title>
+        <link>https://karahan.net/categories/</link>
+        <description>Categories - Kategorie - Karahan.net</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Fri, 04 Nov 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>IGMG</title>
+    <link>https://karahan.net/categories/igmg/</link>
+    <pubDate>Fri, 04 Nov 2022 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/categories/igmg/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Podcast</title>
+    <link>https://karahan.net/categories/podcast/</link>
+    <pubDate>Mon, 31 Oct 2022 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/categories/podcast/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Islam in Belgien</title>
+    <link>https://karahan.net/categories/islam-in-belgien/</link>
+    <pubDate>Wed, 26 Oct 2022 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/categories/islam-in-belgien/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Muslimische Gemeinschaften</title>
+    <link>https://karahan.net/categories/muslimische-gemeinschaften/</link>
+    <pubDate>Wed, 26 Oct 2022 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/categories/muslimische-gemeinschaften/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Islam in Frankreich</title>
+    <link>https://karahan.net/categories/islam-in-frankreich/</link>
+    <pubDate>Tue, 22 Mar 2022 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/categories/islam-in-frankreich/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Diskriminierung</title>
+    <link>https://karahan.net/categories/diskriminierung/</link>
+    <pubDate>Tue, 31 Aug 2021 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/categories/diskriminierung/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Publikation</title>
+    <link>https://karahan.net/categories/publikation/</link>
+    <pubDate>Tue, 31 Aug 2021 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/categories/publikation/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Islam in Österreich</title>
+    <link>https://karahan.net/categories/islam-in-%C3%B6sterreich/</link>
+    <pubDate>Fri, 28 May 2021 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/categories/islam-in-%C3%B6sterreich/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Theologie</title>
+    <link>https://karahan.net/categories/theologie/</link>
+    <pubDate>Mon, 12 Apr 2021 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/categories/theologie/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Soziale Arbeit</title>
+    <link>https://karahan.net/categories/soziale-arbeit/</link>
+    <pubDate>Tue, 28 Jul 2020 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/categories/soziale-arbeit/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
