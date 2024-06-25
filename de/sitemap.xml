@@ -2,6 +2,96 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://karahan.net/tags/bmi/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://karahan.net/categories/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="tr"
+                        href="https://karahan.net/tr/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="https://karahan.net/categories/"
+                    /></url><url>
+            <loc>https://karahan.net/categories/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="tr"
+                        href="https://karahan.net/tr/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="https://karahan.net/categories/"
+                    /></url><url>
+            <loc>https://karahan.net/tags/deutsch/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://karahan.net/tags/deutschland/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://karahan.net/posts/sprache-religion-islam/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://karahan.net/tags/ditib/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="tr"
+                        href="https://karahan.net/tr/tags/ditib/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="https://karahan.net/tags/ditib/"
+                    /></url><url>
+            <loc>https://karahan.net/tags/herkunftssprache/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://karahan.net/tags/igmg/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="tr"
+                        href="https://karahan.net/tr/tags/igmg/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="https://karahan.net/tags/igmg/"
+                    /></url><url>
+            <loc>https://karahan.net/tags/imame/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://karahan.net/tags/islam/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="tr"
+                        href="https://karahan.net/tr/tags/islam/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="https://karahan.net/tags/islam/"
+                    /></url><url>
+            <loc>https://karahan.net/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="tr"
+                        href="https://karahan.net/tr/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="https://karahan.net/"
+                    /></url><url>
+            <loc>https://karahan.net/tags/moschee/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="tr"
+                        href="https://karahan.net/tr/tags/moschee/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="https://karahan.net/tags/moschee/"
+                    /></url><url>
+            <loc>https://karahan.net/categories/muslimische-gemeinschaften/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://karahan.net/posts/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="tr"
+                        href="https://karahan.net/tr/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="https://karahan.net/posts/"
+                    /></url><url>
+            <loc>https://karahan.net/tags/religionsunterricht/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://karahan.net/tags/sprache/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://karahan.net/tags/</loc><lastmod>2024-06-25T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="tr"
+                        href="https://karahan.net/tr/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="de"
+                    href="https://karahan.net/tags/"
+                    /></url><url>
             <loc>https://karahan.net/tags/aktivismus/</loc><lastmod>2024-06-20T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/antimuslimischer-rassismus/</loc><lastmod>2024-06-20T00:00:00&#43;00:00</lastmod><xhtml:link
                         rel="alternate"
@@ -13,24 +103,6 @@
                     href="https://karahan.net/tags/antimuslimischer-rassismus/"
                     /></url><url>
             <loc>https://karahan.net/tags/antisemitismus/</loc><lastmod>2024-06-20T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://karahan.net/categories/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="tr"
-                        href="https://karahan.net/tr/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="de"
-                    href="https://karahan.net/categories/"
-                    /></url><url>
-            <loc>https://karahan.net/categories/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="tr"
-                        href="https://karahan.net/tr/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="de"
-                    href="https://karahan.net/categories/"
-                    /></url><url>
             <loc>https://karahan.net/tags/diskurs/</loc><lastmod>2024-06-20T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/posts/innermuslimischer-diskurs-auf-abwegen/</loc><lastmod>2024-06-20T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/islamfeindlichkeit/</loc><lastmod>2024-06-20T00:00:00&#43;00:00</lastmod><xhtml:link
@@ -41,34 +113,6 @@
                     rel="alternate"
                     hreflang="de"
                     href="https://karahan.net/tags/islamfeindlichkeit/"
-                    /></url><url>
-            <loc>https://karahan.net/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="tr"
-                        href="https://karahan.net/tr/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="de"
-                    href="https://karahan.net/"
-                    /></url><url>
-            <loc>https://karahan.net/categories/muslimische-gemeinschaften/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://karahan.net/posts/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="tr"
-                        href="https://karahan.net/tr/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="de"
-                    href="https://karahan.net/posts/"
-                    /></url><url>
-            <loc>https://karahan.net/tags/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="tr"
-                        href="https://karahan.net/tr/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="de"
-                    href="https://karahan.net/tags/"
                     /></url><url>
             <loc>https://karahan.net/tags/verb%C3%A4nde/</loc><lastmod>2024-06-20T00:00:00&#43;00:00</lastmod><xhtml:link
                         rel="alternate"
@@ -106,15 +150,6 @@
                     rel="alternate"
                     hreflang="de"
                     href="https://karahan.net/posts/heimat-finden-im-fremden/"
-                    /></url><url>
-            <loc>https://karahan.net/tags/igmg/</loc><lastmod>2022-11-04T00:00:00&#43;00:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="tr"
-                        href="https://karahan.net/tr/tags/igmg/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="de"
-                    href="https://karahan.net/tags/igmg/"
                     /></url><url>
             <loc>https://karahan.net/categories/igmg/</loc><lastmod>2022-11-04T00:00:00&#43;00:00</lastmod><xhtml:link
                         rel="alternate"
@@ -157,15 +192,6 @@
             <loc>https://karahan.net/tags/transformation/</loc><lastmod>2024-01-26T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/belgien/</loc><lastmod>2022-10-31T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/dauern%C3%B6rgler/</loc><lastmod>2022-10-31T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://karahan.net/tags/ditib/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="tr"
-                        href="https://karahan.net/tr/tags/ditib/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="de"
-                    href="https://karahan.net/tags/ditib/"
-                    /></url><url>
             <loc>https://karahan.net/posts/episode_34-die_dauernoergler_noergeln/</loc><lastmod>2022-10-31T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/frankreich/</loc><lastmod>2023-01-01T00:00:00&#43;00:00</lastmod><xhtml:link
                         rel="alternate"
@@ -451,15 +477,6 @@
                     /></url><url>
             <loc>https://karahan.net/categories/islam-in-%C3%B6sterreich/</loc><lastmod>2023-01-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/landkarte/</loc><lastmod>2022-04-11T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://karahan.net/tags/moschee/</loc><lastmod>2022-04-12T00:00:00&#43;00:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="tr"
-                        href="https://karahan.net/tr/tags/moschee/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="de"
-                    href="https://karahan.net/tags/moschee/"
-                    /></url><url>
             <loc>https://karahan.net/tags/moscheeregister/</loc><lastmod>2022-04-11T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/%C3%B6sterreich/</loc><lastmod>2022-04-11T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/posts/wo-ist-meine-moschee/</loc><lastmod>2022-04-11T00:00:00&#43;00:00</lastmod><xhtml:link
@@ -499,15 +516,6 @@
                     rel="alternate"
                     hreflang="de"
                     href="https://karahan.net/posts/franzoesische-revolution-igmg/"
-                    /></url><url>
-            <loc>https://karahan.net/tags/islam/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="tr"
-                        href="https://karahan.net/tr/tags/islam/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="de"
-                    href="https://karahan.net/tags/islam/"
                     /></url><url>
             <loc>https://karahan.net/tags/islampolitik/</loc><lastmod>2022-04-08T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/posts/transformation-rueckwaerts/</loc><lastmod>2022-04-06T00:00:00&#43;00:00</lastmod></url><url>
@@ -690,11 +698,8 @@
             <loc>https://karahan.net/tags/wir-%C3%BCber-uns/</loc><lastmod>2022-06-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/ausland/</loc><lastmod>2022-06-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/deutschkenntnisse/</loc><lastmod>2022-06-01T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://karahan.net/tags/deutschland/</loc><lastmod>2022-06-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/posts/dn-episode03-imame-made-in-germany/</loc><lastmod>2022-06-01T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://karahan.net/tags/imame/</loc><lastmod>2022-06-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/import-imam/</loc><lastmod>2022-06-01T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://karahan.net/tags/deutsch/</loc><lastmod>2022-06-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/posts/dn-episode02-wir-ersticken-an-identitaeten/</loc><lastmod>2022-06-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/identit%C3%A4t/</loc><lastmod>2022-06-01T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/kultur/</loc><lastmod>2022-06-01T00:00:00&#43;00:00</lastmod></url><url>
@@ -937,7 +942,6 @@
             <loc>https://karahan.net/tags/gesetz/</loc><lastmod>2022-04-11T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/judentum/</loc><lastmod>2022-04-12T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/posts/hessen-iru-gg/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://karahan.net/tags/bmi/</loc><lastmod>2022-04-11T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/gemeinschaft/</loc><lastmod>2022-04-11T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/posts/sicherer-massstab-loyaler-muslim/</loc><lastmod>2022-04-11T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/sicherheitspartnerschaft/</loc><lastmod>2022-04-11T00:00:00&#43;00:00</lastmod></url><url>
@@ -947,7 +951,6 @@
             <loc>https://karahan.net/tags/islamrat/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/l%C3%B6hrmann/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/nrw/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://karahan.net/tags/religionsunterricht/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/vikz/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/zmd/</loc><lastmod>2024-06-24T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://karahan.net/tags/ausbildung/</loc><lastmod>2022-04-12T00:00:00&#43;00:00</lastmod></url><url>
