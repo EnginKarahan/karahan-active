@@ -4,7 +4,15 @@
         <link>https://karahan.net/categories/</link>
         <description>Categories - Kategorie - Karahan.net</description>
         <generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>info@karahan.net (Engin Karahan)</managingEditor>
-            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Tue, 25 Jun 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>info@karahan.net (Engin Karahan)</webMaster><lastBuildDate>Mon, 26 Aug 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://karahan.net/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Sicherheitsdiskurs</title>
+    <link>https://karahan.net/categories/sicherheitsdiskurs/</link>
+    <pubDate>Mon, 26 Aug 2024 00:00:00 &#43;0000</pubDate>
+    <author>Engin Karahan</author>
+    <guid>https://karahan.net/categories/sicherheitsdiskurs/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>Muslimische Gemeinschaften</title>
     <link>https://karahan.net/categories/muslimische-gemeinschaften/</link>
     <pubDate>Tue, 25 Jun 2024 00:00:00 &#43;0000</pubDate>
@@ -74,14 +82,6 @@
     <pubDate>Mon, 12 Apr 2021 00:00:00 &#43;0000</pubDate>
     <author>Engin Karahan</author>
     <guid>https://karahan.net/categories/theologie/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Soziale Arbeit</title>
-    <link>https://karahan.net/categories/soziale-arbeit/</link>
-    <pubDate>Tue, 28 Jul 2020 00:00:00 &#43;0000</pubDate>
-    <author>Engin Karahan</author>
-    <guid>https://karahan.net/categories/soziale-arbeit/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
